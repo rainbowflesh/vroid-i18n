@@ -2,15 +2,72 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <AssemblyName>vroid_i18n</AssemblyName>
-    <Description>My first plugin</Description>
-    <Version>1.0.0</Version>
+    <AssemblyName>vroid-i18n</AssemblyName>
+    <Description>i18n plugin for VRoidStudio</Description>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <Version>0.0.1</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
+    <RootNamespace>vroid-i18n</RootNamespace>
+    <PlatformTarget>x64</PlatformTarget>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <SignAssembly>False</SignAssembly>
+    <Authors>rainbowflesh</Authors>
+    <Copyright>rainbowflesh © 2024</Copyright>
+    <PackageProjectUrl>https://github.com/rainbowflesh/vroid-i18n</PackageProjectUrl>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/rainbowflesh/vroid-i18n</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>unity plugin</PackageTags>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <AssemblyOriginatorKeyFile>C:\Users\catki\keypair.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BepInEx.IL2CPP" Version="6.0.0-*" IncludeAssets="compile" />
-    <PackageReference Include="BepInEx.PluginInfoProps" Version="1.*" />
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Core">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\core\BepInEx.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\core\BepInEx.Unity.IL2CPP.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppInterop.Common">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\core\Il2CppInterop.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2CppInterop.Runtime">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\core\Il2CppInterop.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Il2Cppmscorlib">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\Il2Cppmscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="VRoid.UI">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\VRoid.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="VRoidCore">
+      <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\VRoidCore.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

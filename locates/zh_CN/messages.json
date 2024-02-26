@@ -1,0 +1,4350 @@
+{
+  "BlendShape": {
+    "N00_Face": {
+      "F00": {
+        "Eye": {
+          "Angry": "生气",
+          "Fun": "开心",
+          "Joy": "高兴",
+          "JoyL": "高兴 (左)",
+          "JoyR": "高兴 (右)",
+          "Sorrow": "沮丧",
+          "Spread": "睁眼",
+          "Surprised": "吃惊"
+        },
+        "Eyebrow": {
+          "Angry": "生气",
+          "Fun": "开心",
+          "Joy": "高兴",
+          "Sorrow": "沮丧",
+          "Surprised": "吃惊"
+        },
+        "Mouth": {
+          "A": "A",
+          "Angry": "生气",
+          "E": "E",
+          "Fun": "开心",
+          "I": "I",
+          "Joy": "高兴",
+          "Neutral": "自然",
+          "O": "O",
+          "Sorrow": "沮丧",
+          "Surprised": "吃惊",
+          "U": "U"
+        }
+      },
+      "M00": {
+        "Eye": {
+          "Angry": "生气",
+          "Fun": "开心",
+          "Joy": "高兴",
+          "JoyL": "高兴 (左)",
+          "JoyR": "高兴 (右)",
+          "Sorrow": "沮丧",
+          "Spread": "睁眼",
+          "Surprised": "吃惊"
+        },
+        "Eyebrow": {
+          "Angry": "生气",
+          "Fun": "开心",
+          "Joy": "高兴",
+          "Sorrow": "沮丧",
+          "Surprised": "吃惊"
+        },
+        "Mouth": {
+          "A": "A",
+          "Angry": "生气",
+          "E": "E",
+          "Fun": "开心",
+          "I": "I",
+          "Joy": "高兴",
+          "Neutral": "普通",
+          "O": "O",
+          "Sorrow": "沮丧",
+          "Surprised": "吃惊",
+          "U": "U"
+        }
+      },
+      "N00": {
+        "Eye": {
+          "Close": "闭眼",
+          "CloseL": "闭眼 (左)",
+          "CloseR": "闭眼 (右)",
+          "HideHighlight": "隐藏高光",
+          "HideIris": "隐藏虹膜",
+          "IrisCat": "猫眼",
+          "IrisClose": "缩小瞳孔",
+          "IrisIn": "瞳孔向后",
+          "IrisOpen": "张开瞳孔"
+        },
+        "Mouth": {
+          "Cat": "猫嘴",
+          "CatUp": "猫嘴形状",
+          "Close": "闭嘴",
+          "Down": "下抬",
+          "Large": "加宽",
+          "SkinFung": "吸血鬼的牙齿 (皮肤)",
+          "SkinFungL": "吸血鬼的牙齿 (皮肤, 左)",
+          "SkinFungR": "吸血鬼的牙齿 (皮肤, 右)",
+          "Small": "收窄",
+          "Up": "上抬"
+        },
+        "Tooth": {
+          "Fung1": "吸血鬼的牙齿",
+          "Fung1Lower": "吸血鬼的牙齿 (下)",
+          "Fung1Upper": "吸血鬼的牙齿 (上)",
+          "Fung2": "鲨鱼牙齿",
+          "Fung2Lower": "鲨鱼牙齿 (下)",
+          "Fung2Upper": "鲨鱼牙齿 (上)",
+          "Fung3": "门牙变尖",
+          "Fung3Lower": "门牙变尖 (下)",
+          "Fung3Upper": "门牙变尖 (上)",
+          "Hide": "隐藏",
+          "HideLower": "隐藏 (下)",
+          "HideUpper": "隐藏 (上)",
+          "Short": "牙齿收缩",
+          "ShortLower": "牙齿收缩 (下)",
+          "ShortUpper": "牙齿收缩 (上)"
+        }
+      }
+    },
+    "Synthesized": {
+      "N00_Face": {
+        "N00": {
+          "All": {
+            "Angry": "生气",
+            "Fun": "开心",
+            "Joy": "高兴",
+            "Neutral": "普通",
+            "Sorrow": "沮丧",
+            "Surprised": "吃惊"
+          },
+          "Eye": {
+            "Close": "闭眼",
+            "CloseL": "闭眼 (左)",
+            "CloseR": "闭眼 (右)"
+          },
+          "Mouth": {
+            "A": "A",
+            "E": "E",
+            "I": "I",
+            "O": "O",
+            "U": "U"
+          }
+        }
+      }
+    }
+  },
+  "Booth": {
+    "BodyEditor": {
+      "ViewModel_TransferableGroupType": {
+        "N00": {
+          "Level1": {
+            "BodySkin": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Body+Skins"
+          }
+        }
+      }
+    },
+    "ClothingEditor": {
+      "ViewModel_TransferableGroupType": {
+        "N00": {
+          "Level0": {
+            "ClothingSet": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Outfits+Sets"
+          },
+          "Level1": {
+            "ArmAccessory": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Arm+Accessories",
+            "Bottoms": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Bottoms+%28Clothing%29",
+            "InnerBottom": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Bottoms+%28Underwear%29",
+            "InnerTop": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Tops+%28Underwear%29",
+            "NeckAccessory": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Neck+Accessories",
+            "Onepiece": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Dresses",
+            "Shoes": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Shoes",
+            "Socks": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Socks",
+            "Tops": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Tops+%28Clothing%29"
+          }
+        }
+      }
+    },
+    "FaceEditor": {
+      "ViewModel_TransferableGroupType": {
+        "N00": {
+          "Level0": {
+            "FaceSet": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Face+Sets"
+          },
+          "Level1": {
+            "Cheek": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Cheeks",
+            "Eyebrow": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eyebrows",
+            "EyeSet": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eyes+Sets",
+            "FacePaint": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Face+Paint",
+            "FaceSkin": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Face+Skins",
+            "Lip": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Lips",
+            "Mouth": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Mouth+Insides",
+            "MouthLine": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Mouths",
+            "NoseLighting": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Noses"
+          },
+          "Level2": {
+            "Eyelash": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eyelashes",
+            "Eyelid": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eyelids",
+            "Eyeline": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eyeliner"
+          },
+          "Level3": {
+            "EyeHighlight": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Eye+Highlights",
+            "EyeWhite": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Scleras",
+            "Iris": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Irises"
+          }
+        }
+      }
+    },
+    "HairEditor": {
+      "ViewModel_TransferableGroupType": {
+        "N00": {
+          "Level0": {
+            "HairSet": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Hairstyle+Sets"
+          },
+          "Level1": {
+            "AllHair": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Overall+Hair",
+            "BaseHair": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Base+Hair",
+            "HairAhoge": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Ahoge+Hair",
+            "HairBack": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Back+Hair",
+            "HairFront": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Front+Hair",
+            "HairHanege": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Extra+Hair",
+            "HairSideburns": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Side+Hair",
+            "HairTied": "https://booth.pm/en/browse/VRoid?in_stock=true&tags%5B%5D=Hair+Extensions"
+          }
+        }
+      }
+    }
+  },
+  "BugReportDialog": {
+    "Close": "关闭",
+    "CopyAllText": "复制所有文本",
+    "Description": "如果您想报告问题, 请将以下信息粘贴到联系表单中.",
+    "Detail": "您的电脑硬件规格",
+    "ErrorInfomation": "错误信息",
+    "ErrorLog": "错误信息",
+    "ModelName": "您的电脑型号名称（型号）",
+    "OpenLogFile": "打开日志文件",
+    "OS": "系统版本",
+    "ReportIssue": "报告问题",
+    "Version": "软件版本"
+  },
+  "BuildTarget": {
+    "Editor": {
+      "SystemLanguage": "简体中文"
+    }
+  },
+  "Common": {
+    "About": "关于",
+    "Accessory": {
+      "F00_000": "基础模型",
+      "F00_001_01": "制服 (短裙)"
+    },
+    "AvatarNameError": "无效字符",
+    "Cancel": "返回",
+    "ClonedPostfix": " (已编辑)",
+    "ClothingSet": {
+      "F00_000": "基础模型",
+      "F00_001_01": "制服 (短裙)"
+    },
+    "Color": {
+      "Base": "底色",
+      "HairHighlight": "高光颜色",
+      "HairMain": "主色",
+      "Highlight": "高光",
+      "IrisLeftMain": "颜色 (左眼)",
+      "IrisRightMain": "颜色 (右眼)",
+      "Main": "颜色",
+      "Outline": "轮廓颜色",
+      "OverlayColor": "底色",
+      "Shade": "阴影颜色",
+      "Shadow": "阴影材质",
+      "SkinDark": "暗色",
+      "SkinLight": "亮色",
+      "SkinMain": "颜色"
+    },
+    "Confirmation": "确定",
+    "Delete": "删除",
+    "DoNotShowThisMessageAgain": "不再提醒",
+    "Duplicate": "复制",
+    "Editable": {
+      "Bone": "骨骼",
+      "ColorChangerEnabled": "使用颜色校准",
+      "Design": "设计",
+      "Expression": "面部表情",
+      "HighlightTexture": "高光",
+      "LegacyColorChanger": "Shader 颜色",
+      "MainTexture": "基础",
+      "SkinAlphaMask": "皮肤蒙版",
+      "SkinOverlay": "皮肤覆盖物",
+      "Texture": "材质"
+    },
+    "Export": "导出",
+    "FileType": {
+      "Transferable": "可移植",
+      "VRoid": "VRoid"
+    },
+    "Free": "免费",
+    "GetForFree": "获取",
+    "Guideline": "准则",
+    "Import": "导入",
+    "Loading": "正在加载, 请稍等片刻.",
+    "Logout": "登出",
+    "Material": {
+      "NormalMapWeight": "法线映射强度"
+    },
+    "No": "否",
+    "OK": "是",
+    "Open": "打开",
+    "Part": {
+      "Accessory": "配饰",
+      "AnimalEar": "动物耳朵",
+      "Arm": "胳膊",
+      "ArmAccessory": "胳膊配饰",
+      "BaseHair": "基础头发",
+      "Bottoms": "下身",
+      "Bust": "胸部",
+      "Cheek": "脸颊",
+      "Ear": "耳朵",
+      "Expression": "表情",
+      "Eye": "眼睛",
+      "EyeBall": "瞳孔",
+      "EyeBrow": "眉毛",
+      "EyeBrowF": "眉毛 (女性)",
+      "EyeBrowM": "眉毛 (男性)",
+      "EyeF": "眼睛 (女性)",
+      "EyeHighlight": "眼睛高光",
+      "EyeIris": "瞳孔",
+      "EyeLash": "睫毛",
+      "Eyelid": "眼角",
+      "Eyeline": "眼线",
+      "EyeM": "眼睛 (男性)",
+      "EyeShape": "眼睛形状",
+      "EyeSurrounding": "眼睛形状",
+      "EyeWhite": "眼白",
+      "Face": "脸型",
+      "Faceline": "脸部轮廓线",
+      "FacePaint": "脸部彩绘",
+      "FaceSkin": "皮肤",
+      "Foot": "脚",
+      "Glasses": "眼镜",
+      "Hand": "手",
+      "Hat": "帽子",
+      "Head": "头",
+      "HeadPhone": "耳机",
+      "Horns": "角",
+      "Inner": "内衣",
+      "Leg": "腿",
+      "Lip": "嘴唇",
+      "Mouth": "口腔",
+      "MouthF": "嘴巴 (女性)",
+      "MouthLine": "嘴",
+      "MouthM": "嘴巴 (男性)",
+      "NeckAccessory": "脖子配饰",
+      "Nose": "鼻子",
+      "NoseLighting": "鼻子轮廓",
+      "Onepiece": "连衣裙",
+      "OnePiece": "连衣裙",
+      "OnePieceShoes": "靴子",
+      "Pants": "内裤",
+      "Safety": "安全裤",
+      "Shoes": "鞋子",
+      "Shoulder": "肩膀",
+      "Skin": "皮肤",
+      "Socks": "袜子",
+      "Tie": "领带",
+      "Tooth": "牙齿",
+      "Tops": "上身",
+      "Waist": "腰部",
+      "WholeBody": "身体"
+    },
+    "PrivacyPolicy": "隐私政策",
+    "Purchase": "购买",
+    "Quality": "显示质量",
+    "Save": "保存",
+    "Settings": "设置",
+    "SomethingWentWrong": "出错了.",
+    "Start": "快速开始",
+    "TOS": "使用条款",
+    "TransmissionRetry": "重试",
+    "TransmissionRetryDescription": "出错了. \r\n请检查网络连接并重试.",
+    "Upload": "上传",
+    "Use": "使用此模型",
+    "Yes": "是"
+  },
+  "ExportDialogController": {
+    "AccessoryLimit": "无法添加更多配件",
+    "AccessoryLimitDescription": "同一类别的配件数量已达到五件的上限",
+    "AccessoryUnknown": "出现未知错误",
+    "AllowedUser": "谁可以使用此角色? ",
+    "AllowedUserDropDown": {
+      "Everyone": "任何人",
+      "ExplicitlyLicensedPerson": "那些有明确授权的人",
+      "OnlyAuthor": "仅作者"
+    },
+    "Author": "作者",
+    "Authors": "作者",
+    "AvatarName": "角色名",
+    "AvatarUsagePermissionsAntisocialOrHate": "反社会活动或仇恨言论",
+    "AvatarUsagePermissionsPoliticalOrReligious": "政治或宗教内容",
+    "AvatarUsagePermissionsSexual": "过分的性内容",
+    "AvatarUsagePermissionsTitle": "角色内容授权",
+    "AvatarUsagePermissionsViolent": "暴力内容",
+    "AvatarUsePermissionsLicensedPerson": "授予权限的用户",
+    "AvatarUsePermissionsOnlyAuthor": "仅限创建者",
+    "AvatarUsePermissionsTitle": "角色使用授权设置",
+    "AvatarUsePermissionsTitleNew": "角色使用授权",
+    "CharactorizationPermissionsTitle": "个性化头像",
+    "CommercialUsageAllowPersonalCommercial": "允许个人商业使用",
+    "CommercialUsageAllowPersonalCorporateCommercial": "允许个人和公司组织进行商业用途",
+    "CommercialUsageOnlyPersonalNonCommercial": "仅限个人非商业用途",
+    "CommercialUsageTitle": "商业用途",
+    "CommericalUssage": "商业用途",
+    "Contact": "联系方式",
+    "CopyrightNotation": "创建者版权",
+    "CopyrightNotationPlaceholder": "例子: ©︎ 2022 pixiv Inc.",
+    "CreditNotRequired": "不需要",
+    "CreditRequired": "需要",
+    "CreditTitle": "归属",
+    "DialogTitle": "VRM 设置",
+    "ExportFailedAlertIO": "导出数据时出错.",
+    "ExportFailedAlertIODescription": "导出过程中出现问题,请重试.",
+    "ExportFailedAlertUnknown": "导出数据时出错. (未知错误)",
+    "ExportFormat": "导出格式",
+    "Information": "模型信息",
+    "LicenseType": "许可证",
+    "LicenseTypeAllowEveryone": "任何人",
+    "LicenseTypeDropDown": {
+      "Cc0": "公共领域 (CC0)",
+      "CcBy": "知识共享-署名 CC-BY ",
+      "CcByNc": "知识共享-署名-非商业性使用 CC-BY-NC ",
+      "CcByNcNd": "知识共享-署名-非商业性使用-禁止演绎 CC-BY-NC-ND ",
+      "CcByNcSa": "知识共享-署名-非商业性使用-相同方式共享 CC-BY-NC-SA ",
+      "CcByNd": "知识共享-署名-禁止演绎 CC-BY-ND ",
+      "CcBySa": "知识共享-署名-相同方式共享 CC-BY-SA ",
+      "Other": "其他",
+      "RedistributionProhibited": "禁止二次配布"
+    },
+    "LicenseTypeProhibited": "禁止",
+    "ModificationPermissionsAllow": "允许更改",
+    "ModificationPermissionsAllowRedistribution": "允许重新分发更改后的角色",
+    "ModificationPermissionsTitle": "更改",
+    "MultipleUsingComma": "您可以使用英文逗号输入多个项目。",
+    "Name": "名字",
+    "Options": {
+      "EnableHairCombination": "合并毛发网格",
+      "Options_": "选项"
+    },
+    "OtherLicenseUrl": "其他许可证信息URL",
+    "OtherPermissionUrl": "附加许可证信息",
+    "OtherPermissionUrlPlaceholder": "例子: https://example.com",
+    "Permitted": "同意",
+    "RedistributionAndModificationsPermissionTitle": "二次配布与二次编辑",
+    "RedistributionPermissionsAllow": "允许",
+    "RedistributionPermissionsTitle": "再分发",
+    "Reference": "参考",
+    "References": "参考",
+    "RequiredInput": "* 必须",
+    "SexualUssage": "性描写",
+    "ThirdPartyLicenses": "第三方许可",
+    "Title": "标题",
+    "TypeURLAlert": "请输入有效的URL。",
+    "Version": "版本",
+    "ViolentUssage": "暴力描写",
+    "VRM0": "VRM0.0",
+    "VRM1": "VRM1.0",
+    "VRM1CompatibilityWarning": "在使用此角色之前，请确保应用程序与VRM 1.0兼容。",
+    "VRM1PublicLicenseNoticeLink": "VRM公共许可证",
+    "VRM1PublicLicenseNoticePostLink": "",
+    "VRM1PublicLicenseNoticePreLink": "用户必须遵守"
+  },
+  "GUI": {
+    "Announcement": {
+      "Error": "加载新闻时出错",
+      "Title": "新闻"
+    },
+    "AvatarEditor": {
+      "AccessoryBoneEditorScreen": {
+        "ScreenName": "辅助骨骼编辑器"
+      },
+      "AccessoryDesignEditorScreen": {
+        "ScreenName": "设计编辑器"
+      },
+      "AccessoryEditor": {
+        "AccessoryEditorToolPanel": {
+          "AccessoryList": "配饰",
+          "AddAccessory": "添加配饰",
+          "AddAccessoryButton": "添加一个配饰",
+          "Duplicate": "复制",
+          "Hide": "隐藏",
+          "Lock": "锁定",
+          "NoAccessories": "没有配饰",
+          "Remove": "删除",
+          "Rename": "重命名"
+        },
+        "AccessoryEditorViewModel": {
+          "AnimalEar": "动物耳朵",
+          "BaseModel": "基础模型",
+          "BlendShapeBottomsCrease": "裤子折痕",
+          "BlendShapeBottomsWide": "裤子宽度",
+          "BlendShapeOnePieceSkirtWeight": "裙摆开口",
+          "BlendShapeOnePieceSleeve1": "袖口宽度",
+          "BlendShapeOnePieceSleeve2": "袖口紧度",
+          "Categories": "种类",
+          "Delete": "删除",
+          "Foot": "脚趾形状",
+          "FootPart0": "赤脚 (平足)",
+          "FootPart1": "袜子 (平底)",
+          "FootPart2": "赤脚 (成角度)",
+          "FootPart3": "袜子 (斜纹)",
+          "Glasses": "眼镜",
+          "Horns": "角",
+          "Name": "名字",
+          "None": "无",
+          "OnePiece": "连衣裙",
+          "Pants": "制服 (裤子)",
+          "PartCategory": {
+            "Accessory": "配饰",
+            "Base": "基础模型",
+            "Clothing": "衣服",
+            "Shoes": "鞋子"
+          },
+          "PartSubCategory": {
+            "AccessoryFace": "脸",
+            "AccessoryHand": "手",
+            "AccessoryHead": "头",
+            "AccessoryLeg": "腿",
+            "AccessoryNeck": "颈",
+            "Body": "身体",
+            "ClothingBottoms": "下身",
+            "ClothingTops": "上身",
+            "Face": "脸",
+            "Foot": "脚",
+            "Hand": "手",
+            "Head": "头",
+            "Shoes": "鞋"
+          },
+          "Preset": "预设",
+          "Save": "保存",
+          "Slot": "组件",
+          "Uniform": "校服"
+        }
+      },
+      "BodyEditor": {
+        "BodyEditorViewModel": {
+          "ArmLength": "臂长",
+          "ArmLong": "臂长 (更长)",
+          "ArmShort": "臂长 (更短)",
+          "BodyScale": "驱赶大小",
+          "BustClose": "乳房收拢",
+          "BustDirection": "胸部位置 (Y)",
+          "BustDistance": "胸部张开",
+          "BustDown": "乳房位置 (下降)",
+          "BustOpen": "乳房间距",
+          "BustScale": "胸部大小",
+          "BustScaleMag": "乳房大小",
+          "BustScaleShrink": "乳房大小 (更小)",
+          "BustScaleShrink2": "胸部突出",
+          "BustUp": "乳房位置 (上升)",
+          "ClavicleLow": "软化锁骨",
+          "FemaleStandardPhysique": "女性身体类型",
+          "FigureHeight": "高度",
+          "FigureHeightFemale": "女性高度",
+          "FigureHeightMale": "男体高度",
+          "FigureSlender": "高度 (更高)",
+          "FingerThick": "手指大小 (更大)",
+          "FingerThickness": "手指粗细",
+          "FingerThin": "手指大小 (更小)",
+          "FootScale": "足部尺寸",
+          "FootScaleMag": "足部大小 (更大)",
+          "FootScaleShrink": "足部大小 (更小)",
+          "HandScale": "手部尺寸",
+          "HandScaleMag": "手部大小 (更大)",
+          "HandScaleShrink": "手部大小 (更小)",
+          "HeadNarrow": "脑袋长度",
+          "HeadScale": "头尺寸",
+          "HeadScaleMag": "头大小 (更大)",
+          "HeadScaleShrink": "头大小 (更小)",
+          "HeadShapeFemale": "女性头部",
+          "HeadShapeMale": "男性头部",
+          "HeadWide": "脑袋宽度",
+          "LegLength": "腿长度",
+          "LegLong": "腿长 (更长)",
+          "LegShort": "腿长 (更短)",
+          "MaleStandardPhysique": "男性身体类型",
+          "NeckAdamsApple": "喉结",
+          "NeckHeight": "脖子长度",
+          "NeckLong": "颈部 (更长)",
+          "NeckNarrowX": "颈部更薄",
+          "NeckNarrowZ": "颈部更细",
+          "NeckPositionFemale": "颈部位置 (女性)",
+          "NeckPositionMale": "颈部位置 (男性)",
+          "NeckShort": "脖子长度 (更短)",
+          "NeckSpreadX": "颈部更宽",
+          "NeckSpreadZ": "颈部更厚",
+          "NeckWidthX": "颈部宽度",
+          "NeckWidthZ": "颈部厚度",
+          "ShoulderBroad": "肩宽 (更宽)",
+          "ShoulderNarrow": "肩宽 (更窄)",
+          "ShoulderWidth": "肩宽",
+          "WaistLength": "躯干长度",
+          "WaistLong": "躯干长度 (更长)",
+          "WaistScale": "躯干宽度",
+          "WaistScaleMag": "臀部大小 (更大)",
+          "WaistScaleShrink": "臀部大小 (更小)",
+          "WaistShort": "躯干长度 (更短)"
+        }
+      },
+      "ClothingEditor": {
+        "ClothingEditorViewModel": {
+          "BaseModel": "基础模型",
+          "BlendShapeBottomsCrease": "裤子折痕",
+          "BlendShapeBottomsWide": "裤宽",
+          "BlendShapeOnePieceSkirtWeight": "裙摆开口",
+          "BlendShapeOnePieceSleeve1": "袖口宽度",
+          "BlendShapeOnePieceSleeve2": "袖口紧度",
+          "Categories": "分类",
+          "Delete": "删除",
+          "Foot": "脚趾形状",
+          "FootPart0": "赤脚 (平足)",
+          "FootPart1": "袜子 (平底)",
+          "FootPart2": "赤脚 (成角度)",
+          "FootPart3": "袜子 (斜纹)",
+          "Name": "名字",
+          "None": "None",
+          "OnePiece": "连衣裙",
+          "Pants": "制服 (裤子)",
+          "PartCategory": {
+            "Accessory": "配饰",
+            "Base": "基础模型",
+            "Clothing": "衣服",
+            "Shoes": "鞋子"
+          },
+          "PartSubCategory": {
+            "AccessoryFace": "脸",
+            "AccessoryHand": "手",
+            "AccessoryHead": "头",
+            "AccessoryLeg": "腿",
+            "AccessoryNeck": "颈",
+            "Body": "身体",
+            "ClothingBottoms": "下身",
+            "ClothingTops": "上身",
+            "Face": "脸",
+            "Foot": "脚",
+            "Hand": "手",
+            "Head": "头",
+            "Shoes": "鞋"
+          },
+          "Preset": "预设",
+          "Save": "保存",
+          "Slot": "组件",
+          "Uniform": "校服"
+        },
+        "ClothingPresetPropertyPanel": {
+          "Preset": "预设名字"
+        }
+      },
+      "Common": {
+        "All": "全部",
+        "ApplyColorWhenEditing": "编辑时应用颜色",
+        "Customize": "自定义",
+        "EditAccessoryBone": "编辑配饰碰撞",
+        "EditAccessoryDesign": "编辑配饰",
+        "EditHairBone": "编辑头发骨骼",
+        "EditHairDesign": "编辑头发",
+        "EditPreset": "编辑预设",
+        "EditTexture": "编辑纹理",
+        "Gizmos": {
+          "Rotate": "旋转",
+          "Scale": "缩放",
+          "Translate": "移动"
+        },
+        "Parameters": "参数",
+        "Rename": "重命名",
+        "ShowLicense": "显示许可证",
+        "Tools": {
+          "Blur": "模糊",
+          "Brush": "笔刷",
+          "ControlPoint": "控制点",
+          "Erase": "橡皮擦",
+          "Retouch": "修饰笔刷",
+          "Select": "选择"
+        }
+      },
+      "EditorWindowViewModel": {
+        "AccessoryEditor": "配饰",
+        "BackToModelSelect": "返回模型选择",
+        "BodyEditor": "身体",
+        "ClothingEditor": "衣服",
+        "Display": "显示",
+        "Edit": "编辑",
+        "Error": "错误",
+        "FaceEditor": "脸部",
+        "File": "文件",
+        "GeneralEditor": "查看",
+        "HairEditor": "头发",
+        "Help": "FAQ",
+        "Logout": "登出",
+        "LogoutMessage": "从 VRoid Hub 登出",
+        "MoveTo3DPrintExport": "导出 3D 打印数据",
+        "MoveToVRChatUpload": "上传到 VRChat",
+        "MoveToVRMExport": "导出 VRM",
+        "MoveToVRoidHubUpload": "上传到 VRoid Hub",
+        "Open": "打开",
+        "OpenHelpBugReport": "反馈Bug",
+        "OpenHelpFAQ": "FAQ",
+        "OpenHelpOfficialTwitterAccount": "推特",
+        "OpenHelpReleaseNote": "更新日志",
+        "OpenHelpUsage": "教程",
+        "OpenHelpWebSite": "官方网站",
+        "PhotoBooth": "拍照/导出",
+        "Quit": "关闭",
+        "Redo": "重做",
+        "Rename": "重命名",
+        "Save": "保存",
+        "SaveAs": "另存为..",
+        "ShowFPS": "显示 FPS",
+        "Undo": "撤销",
+        "VRoidHub": "VRoid Hub"
+      },
+      "FaceEditor": {
+        "BlendShapeCompositionViewModel": {
+          "A": "A",
+          "ANGRY": "生气",
+          "BLINK": "眨眼",
+          "BLINK_L": "眨眼 (左)",
+          "BLINK_R": "眨眼 (右)",
+          "E": "E",
+          "FUN": "开心",
+          "I": "I",
+          "JOY": "高兴",
+          "NEUTRAL": "普通",
+          "O": "O",
+          "SORROW": "沮丧",
+          "SURPRISED": "吃惊",
+          "U": "U"
+        },
+        "FaceEditorViewModel": {
+          "ChinRound": "下巴圆润度",
+          "ChinRoundness": "下巴圆润度",
+          "ChinSharp": "下巴尖锐度",
+          "ChinSlim": "下巴位置 (向下)",
+          "ChinTipDown": "颏尖位置 (向下)",
+          "ChinTipUp": "颏尖位置 (向上)",
+          "EarScaleMag": "耳朵大小 (更大",
+          "EarScaleShrink": "耳朵大小 (更小)",
+          "EarTipBack": "耳尖位置 (向后)",
+          "EarTipDown": "耳尖位置 (向下)",
+          "EarTipUp": "耳尖位置 (向上)",
+          "EarTipWide": "耳尖位置 (水平)",
+          "ExpressionEditor": {
+            "Title": "表情"
+          },
+          "EyebrowDown": "眉毛位置 (向下)",
+          "EyebrowDrooping": "眉毛倾斜度",
+          "EyebrowGather": "眉毛间距变小",
+          "EyebrowRise": "皱眉",
+          "EyebrowSeparate": "眉间距变大",
+          "EyebrowUp": "眉毛位置 (向上)",
+          "EyeCenterDown": "上眼睑高度",
+          "EyeCenterUp": "下眼睑高度",
+          "EyeInsideDown": "内眼角倾斜 (向下)",
+          "EyeInsideUp": "内眼角倾斜 (向上)",
+          "EyeIrisScaleXMag": "瞳孔宽度 (更大)",
+          "EyeIrisScaleXShrink": "瞳孔宽度 (更窄)",
+          "EyeIrisScaleYMag": "瞳孔高度 (更高)",
+          "EyeIrisScaleYShrink": "瞳孔高度 (更短)",
+          "EyeOutsideDown": "外眼角倾斜 (向下)",
+          "EyeOutsideUp": "外眼角倾斜 (向上)",
+          "EyePosDown": "眼睛位置 (向下)",
+          "EyePosIn": "眼间距变大",
+          "EyePosOut": "眼间距变小",
+          "EyePosUp": "眼位置 (向上)",
+          "EyeSizeX": "眼宽 (更大)",
+          "EyeSizeXShrink": "眼宽 (更窄)",
+          "EyeSizeY": "眼高 (更高)",
+          "EyeSizeYShrink": "眼高 (更短)",
+          "FaceFemale": "女",
+          "FacelineBackward": "脸部线条位置 (向后)",
+          "FacelineDown": "脸部线条位置 (向下)",
+          "FacelineForward": "脸部线条位置 (向前)",
+          "FacelineUp": "脸部线条位置 (向上)",
+          "FaceMale": "男",
+          "GazeDownward": "眼方向 (向下)",
+          "GazeInside": "眼方向 (向内)",
+          "GazeOutside": "眼方向 (向外)",
+          "GazeUpward": "眼方向 (向上)",
+          "MandibleSize": "颚骨角度 (增加)",
+          "MouthCornerDown": "嘴角位置  (向下)",
+          "MouthCornerUp": "嘴角位置  (向上)",
+          "MouthDown": "嘴位置 (向下)",
+          "MouthNarrow": "嘴宽 (更窄)",
+          "MouthUp": "嘴位置 (向上)",
+          "MouthWide": "嘴宽 (更宽)",
+          "NoseBig": "鼻子大小 (更大)",
+          "NoseDown": "鼻子位置 (向下)",
+          "NoseSmall": "鼻子大小 (更小)",
+          "NoseUp": "鼻子位置 (向上)",
+          "NoseWide": "鼻子宽度",
+          "SinciputDown": "头顶位置 (向下)",
+          "SinciputUp": "头顶位置 (向上)"
+        },
+        "FacePropertyPanel": {
+          "PresetNameDummy": "预设名字显示在这里"
+        }
+      },
+      "GeneralEditor": {
+        "EyeExcursion": {
+          "HorizontalInner": "靠内",
+          "HorizontalOuter": "靠外",
+          "VerticalLower": "靠下",
+          "VerticalUpper": "靠上"
+        },
+        "EyeExcursionMode": "眼睛移动校准",
+        "OutlineParameter": {
+          "Accessory": "配饰",
+          "Body": "身体",
+          "Face": "脸",
+          "Hair": "头发",
+          "OutlineWidth": "轮廓线宽度"
+        },
+        "OutlineParameterMode": "轮廓",
+        "RimLight": {
+          "BaseColor": "底色",
+          "Body": "身体",
+          "Compression": "压缩",
+          "Face": "脸",
+          "Flip": "翻转",
+          "Hair": "头发",
+          "Rotation": "旋转",
+          "Strength": "强度"
+        },
+        "RimLightMode": "边缘光",
+        "ShadingParameter": {
+          "Body": "身体",
+          "Face": "脸",
+          "Hair": "头发",
+          "NormalSmoothing": "阴影柔软度",
+          "NormalStrength": "强度",
+          "ShadingShift": "阴影区域",
+          "ShadingToony": "阴影硬度"
+        },
+        "ShadingParameterMode": "阴影",
+        "SpringBone": {
+          "Accessory": "配饰",
+          "Amplitude": "振幅",
+          "Body": "身体",
+          "Clothing": "衣服",
+          "ErrorReduction": "防止在移动过程中过度摇晃"
+        },
+        "SpringBoneMode": "骨骼"
+      },
+      "HairBoneEditorScreenTransform": {
+        "Title": "编辑骨骼"
+      },
+      "HairDesignEditorScreenTransform": {
+        "Title": "编辑预设"
+      },
+      "HairEditor": {
+        "AddBrushHairHistoryCommand": "添加手绘组",
+        "AddHairGroupHistoryCommand": "添加头发组",
+        "ChangeHasOwnValueHistoryCommand": "点击复选框",
+        "ChangeParameterHistoryCommand": "参数变化",
+        "ChangeSelectionHistoryCommand": "旋转",
+        "CloneHairishHistoryCommand": "复制头发",
+        "ConvertToBrushHairishHistoryCommand": "转换为手绘头发",
+        "DeformHairGuideHistoryCommand": "修改头发组",
+        "DeleteBrushHairHistoryCommand": "删除手绘组",
+        "DeleteHairGroupHistoryCommand": "删除头发组",
+        "DeleteMaterialHistoryCommand": "删除材质",
+        "DesignEditor": {
+          "ViewModel": {
+            "AllHair": "整体",
+            "HairAhoge": "呆毛",
+            "HairBack": "后发",
+            "HairFront": "前发",
+            "HairHanege": "额外头发",
+            "HairSideburns": "鬓角",
+            "HairTied": "辫子"
+          }
+        },
+        "DuplicateMaterialHistoryCommand": "复制材质",
+        "FlipHairishHistoryCommand": "翻毛",
+        "HairBoneCommand": {
+          "AddHairToBoneGroup": "移动到所选组",
+          "ChangeBoneCount": "改变骨骼数量",
+          "ChangeColliderRadius": "改变命中范围",
+          "ChangeGravity": "更改重力",
+          "ChangeSpringRootRate": "改变固定点",
+          "ChangeStiffness": "改变刚度",
+          "CreateGroup": "创建骨骼组",
+          "DeleteGroup": "删除骨骼组",
+          "GenerateGroup": "自动生成骨骼组",
+          "RemoveHairFromBoneGroup": "删除骨骼组中的头发"
+        },
+        "HairBoneEditorToolPanel": {
+          "Delete": "删除骨骼组",
+          "RemoveHairFromBoneGroup": "删除骨骼组中的头发",
+          "Rename": "重命名",
+          "ToggleVisibility": "切换可见性"
+        },
+        "HairBoneViewModel": {
+          "AddHairToBoneGroupCommand": "移动到所选组",
+          "BoneCount": "骨骼",
+          "ColliderRadius": "改变命中范围",
+          "CreateHairBoneGroupCommand": "创建骨骼组",
+          "GenHairBoneGroup": "自动生成骨骼组",
+          "GenHairBoneGroupCommand": "生成骨骼组",
+          "GenHairBoneGroupCount": "骨骼组",
+          "GenHairBoneGroupEdge": "前发细节",
+          "Gravity": "中立",
+          "GroupedHairs": "组头发",
+          "HairBone": "完成头发组",
+          "HairBoneGroup": "骨骼参数",
+          "RemoveHairFromBoneGroupCommand": "删除骨骼组中的头发",
+          "SetAxisHintHairCommand": "将头发组设置为轴",
+          "SetAxisHintHairGroupCommand": "重新计算轴",
+          "SpringRootRate": "固定点",
+          "Stiffness": "刚性",
+          "UngroupedHairs": "未分组毛发"
+        },
+        "HairEditorPanel": {
+          "PresetNameDummy": "预设名字显示在这里"
+        },
+        "HairEditorToolPanel": {
+          "Clone": "复制",
+          "ConvertToBrush": "转换为自由手绘发型",
+          "Delete": "删除",
+          "Flip": "翻转",
+          "Rename": "重命名",
+          "Smooth": "平滑",
+          "ToggleEditability": "锁定/解锁",
+          "ToggleVisibility": "可见性"
+        },
+        "HairEditorViewController": {
+          "ProhibitionControlPoint": "控制点不能用于此头发类型.",
+          "ProhibitionRetouch": "修饰笔刷不能用于此头发类型."
+        },
+        "HairEditorViewModel": {
+          "AddBangsHair": "添加逻辑组",
+          "AddBrushGuide": "添加手绘组",
+          "AddTailHair": "添加马尾",
+          "Diamond": "菱形",
+          "ExportAsPreset": "保存为预设",
+          "Flat": "平面",
+          "Fluffy": "蓬松",
+          "Hair": "头发",
+          "HairList": "头发组",
+          "Ika": "乌贼",
+          "Ikachan": "乌贼娘",
+          "ImportPreset": "从预设导入",
+          "MissingMaterialReferenceDetected": "修复损坏的引用材质",
+          "Preset": "预设",
+          "PresetWithNumber": "预设 {0}",
+          "Straight": "直线",
+          "Tail": "尾巴",
+          "Triangle": "三角形 (旧版)",
+          "Triangle2": "三角形",
+          "UnfilledTriangle": "空三角形 (旧版)",
+          "UnfilledTriangle2": "空三角形",
+          "UnfilledTriangleCompatibleWithTriangle": "空三角形 (c/w 三角形 (旧))"
+        },
+        "HairGroupViewModel": {
+          "HairGroup": "头发组"
+        },
+        "HairishParameter": {
+          "Default": "默认"
+        },
+        "HairPropertyViewModelBase": {
+          "AngleForm": "位置",
+          "AngleWidth": "间隔",
+          "BaseHair": "基础头发",
+          "BrushHairGroup": "手绘组",
+          "BrushingBrushHairGroup": "头发笔刷",
+          "BrushParameters": "笔刷参数",
+          "BrushSamplingInterval": "采样间隔",
+          "CrossSection": "横截面",
+          "Curve": "曲线",
+          "Custom": "自定义",
+          "DivisionCount": "平滑度",
+          "FlowConvergence": "头发层叠 (聚集)",
+          "FlowCurvePointDiff": "头发层叠 (侧扫)",
+          "FlowCurvePointT": "头发层叠 (侧扫强度)",
+          "FlowDirection": "头发层叠 (方向)",
+          "FrontFitness": "偏向脑袋 (Z)",
+          "GrowFrom": "发际线",
+          "GuideParameters": "组参数",
+          "Hair": "头发",
+          "HairCount": "头发数量",
+          "HairGroup": "逻辑组",
+          "HairGroupParameters": "逻辑参数",
+          "HairParameters": "头发参数",
+          "Height": "高度",
+          "Length": "长度",
+          "Material": "材质",
+          "Offset": "偏移",
+          "PartingAngle": "头发分割 (侧面容积)",
+          "PartingBias": "头发分割 (侧向收敛)",
+          "PartingLength": "头发分割 (长度)",
+          "PositionOffsetX": "位置 (X)",
+          "PositionOffsetY": "位置 (Y)",
+          "ResetPosition": "Reset Position",
+          "ResetRotate": "Reset Rotation",
+          "ResetScale": "Reset Scale",
+          "SideFitness": "偏向脑袋 (X)",
+          "TextureHeightDistortion": "高亮位置",
+          "TextureParameters": "纹理参数",
+          "TextureWidthScale": "宽度",
+          "Thickness": "厚度",
+          "ThicknessJitterAmplitude": "头发厚度 (增加)",
+          "ThicknessJitterFrequency": "厚度分散 (1)",
+          "ThicknessJitterShift": "厚度转移 (2)",
+          "ThicknessScale": "厚度比",
+          "TipsCurliness": "发尾拱形",
+          "TwistAmplitude": "扭曲 (强度)",
+          "TwistDistortion": "扭曲 (放置)",
+          "UVCenterX": "中心 (Y)",
+          "UVCenterY": "中心 (X)",
+          "Width": "宽度",
+          "WidthScale": "宽度比"
+        },
+        "ImportPresetHistoryCommand": "导入预设",
+        "ModifyHairishHistoryCommand": "修改头发",
+        "ProceduralHairGroup": "逻辑组 {0}",
+        "Property": {
+          "MaterialSelector": {
+            "EditMaterial": "编辑材质"
+          }
+        },
+        "RenameMaterialHistoryCommand": "重命名",
+        "RetouchHairHistoryCommand": "修饰头发"
+      },
+      "HubUploadScreenTransform": {
+        "Title": "上传到 VRoid Hub"
+      },
+      "Mirror": "镜子",
+      "PhotoBooth": {
+        "PhotoBoothViewModel": {
+          "ALL": "基础表情",
+          "ALL_Angry": "生气",
+          "ALL_Fun": "开心",
+          "ALL_Joy": "高兴",
+          "ALL_Neutral": "自然",
+          "ALL_Sorrow": "沮丧",
+          "ALL_Surprised": "吃惊",
+          "Alpha": "Alpha",
+          "Animation": "动画",
+          "AnimationMode": "动画",
+          "Antialias_High": "高",
+          "Antialias_Low": "低",
+          "Antialiasing": "抗锯齿",
+          "AtlasResolution": {
+            "AtlasResolution_": "纹理图集分辨率",
+            "FourK": "4096 x 4096",
+            "TwoK": "2048 x 2048"
+          },
+          "AutoBlink": "自动眨眼",
+          "Background": "背景",
+          "BackgroundColor": "背景颜色",
+          "BindPose": "编辑姿势",
+          "Bloom": "泛光",
+          "Blur": "动态模糊",
+          "BlurDirection_X": "方向 (X)",
+          "BlurDirection_Y": "方向 (Y)",
+          "BlurIntensity": "强度",
+          "BodyReductionStrength": "身体",
+          "BoneReduction": "减少骨骼",
+          "Bones": "骨骼: ",
+          "BrowsingAgeLimit": "年龄限制",
+          "BRW": "眉毛",
+          "BRW_Angry": "生气",
+          "BRW_Fun": "开心",
+          "BRW_Joy": "高兴",
+          "BRW_Sorrow": "沮丧",
+          "BRW_Surprised": "吃惊",
+          "Capture": "摄影棚",
+          "CaptureGuideMessage": "拍照",
+          "CapturePreset_4k": "4K (3840×2160)",
+          "CapturePreset_8k": "8K (7680×4320)",
+          "CapturePreset_Auto": "自动大小",
+          "CapturePreset_Custom": "自定义",
+          "CapturePreset_FullHD": "Full HD (1920×1080)",
+          "CapturePreset_FWXGA": "FWXGA (1366×768)",
+          "CapturePreset_HD": "HD (1280×720)",
+          "CapturePreset_Photo": "照片 (3:2) (3840x2560)",
+          "CapturePreset_Square": "方形 (1080×1080)",
+          "CapturePreset_VRChat": "VRChat 缩略图 (1200x900)",
+          "CapturePreset_VRoidHub": "VRoid Hub 缩略图 (1200×1600)",
+          "CapturePreset_WQHD": "WQHD (2560×1440)",
+          "CapturePreset_XGA": "XGA (1024×768)",
+          "CapturePresetSize": "预设大小",
+          "CaptureRetakeButton": "重拍",
+          "CaptureSize": "图片大小",
+          "CaptureSizeHeight": "高度 (px)",
+          "CaptureSizeLabel": "图片大小",
+          "CaptureSizeWidth": "宽度 (px)",
+          "CharacterModelName": "模型名称",
+          "CharacterName": "角色名字",
+          "ClothingReductionStrength": "衣服",
+          "Color": "颜色",
+          "ColorFilter": "滤色",
+          "ColorGrading": "颜色调节",
+          "ColorRatio": "颜色比例",
+          "Comic": "漫画",
+          "Contrast": "对比度",
+          "Default": "默认",
+          "EnableHairCombination": "合并头发网格",
+          "ErrorDialog": {
+            "LoadErrorDescription": "此文件不兼容",
+            "LoadErrorTitle": "导入过程中出现错误"
+          },
+          "Export": "导出",
+          "ExportInformation": "导出信息",
+          "ExportQuadHair": "导出头发为 OBJ (四边形网格)",
+          "Expression": "面部表情",
+          "EYE": "眼睛",
+          "EYE_Angry": "生气",
+          "EYE_Close": "关闭",
+          "EYE_Close_L": "关闭 (左)",
+          "EYE_Close_R": "关闭 (右)",
+          "EYE_Fun": "开心",
+          "EYE_Highlight_Hide": "隐藏高光",
+          "EYE_Iris_Hide": "隐藏虹膜",
+          "EYE_Joy": "闭眼 (高兴)",
+          "EYE_Joy_L": "闭眼 (高兴, 左)",
+          "EYE_Joy_R": "闭眼 (高兴, 右)",
+          "EYE_Sorrow": "沮丧",
+          "EYE_Spread": "张开",
+          "EYE_Surprised": "吃惊",
+          "EyeMovements": "眼睛运动",
+          "FaceReductionStrength": "脸",
+          "Female_Calling": "嘿!",
+          "Female_Damaged0": "受伤 0",
+          "Female_Damaged1": "受伤 1",
+          "Female_determined": "下定决心",
+          "Female_elated": "兴高采烈",
+          "Female_hey": "嘿!",
+          "Female_Jumping0": "跳动 0",
+          "Female_Jumping1": "跳动 1",
+          "Female_Jumping2": "跳动 2",
+          "Female_Jumping3": "跳动 3",
+          "Female_JumpingOver": "跳马",
+          "Female_laugh": "笑",
+          "Female_lmao": "大笑",
+          "Female_Lost": "失败",
+          "Female_Running": "奔跑",
+          "Female_Sliding": "滑动",
+          "Female_spot_awkward_smile": "尬笑",
+          "Female_spot_crouching_1": "蹲 1",
+          "Female_spot_crouching_2": "蹲 2",
+          "Female_spot_crouching_3": "蹲 3",
+          "Female_spot_crouching_4": "蹲 4",
+          "Female_spot_gazing_up_1": "凝视 1",
+          "Female_spot_gazing_up_2": "凝视 2",
+          "Female_spot_hold_out_hands": "伸手",
+          "Female_spot_lie_down_1": "躺下 1",
+          "Female_spot_look_over_shoulder": "新房45°",
+          "Female_Standby0": "站姿 0",
+          "Female_Standby1": "站姿 1",
+          "Female_Standby10": "站姿 10",
+          "Female_Standby2": "站姿 2",
+          "Female_Standby3": "站姿 3",
+          "Female_Standby4": "站姿 4",
+          "Female_Standby5": "站姿 5",
+          "Female_Standby6": "站姿 6",
+          "Female_Standby7": "站姿 7",
+          "Female_Standby8": "站姿 8",
+          "Female_Standby9": "站姿 9",
+          "Female_stretch": "伸懒腰",
+          "Female_stroll": "散步",
+          "Female_super_delicious": "超好吃",
+          "Female_Tired": "疲倦",
+          "Female_Walking": "行走",
+          "Female_Won": "胜利",
+          "Female_yay": "耶( •̀ ω •́ )y!",
+          "FemaleAnimationMode": "动作 1",
+          "FullBodyImage": "全身",
+          "FullBodyImageCapturing": "拍摄全身照",
+          "FullBodyImageCapturingWithProgress": "拍摄缩略图全身照 (1/2)",
+          "GazeOffsetSync": "同步双眼",
+          "HA": "牙齿",
+          "HA_Fung1": "吸血鬼的牙齿",
+          "HA_Fung1_Low": "吸血鬼的牙齿 (下)",
+          "HA_Fung1_Up": "吸血鬼的牙齿 (上)",
+          "HA_Fung2": "鲨鱼牙齿",
+          "HA_Fung2_Low": "鲨鱼牙齿 (下)",
+          "HA_Fung2_Up": "鲨鱼牙齿 (上)",
+          "HA_Fung3": "门牙变尖",
+          "HA_Fung3_Low": "门牙变尖 (下)",
+          "HA_Fung3_Up": "门牙变尖 (上)",
+          "HA_Hide": "隐藏",
+          "HA_Short": "牙齿收缩",
+          "HA_Short_Low": "牙齿收缩 (下)",
+          "HA_Short_Up": "牙齿收缩 (上)",
+          "HairBoneReductionStrength": "头发 (每组1或者更多)",
+          "HairCrossSection": "编辑头发横截面",
+          "HairReductionStrength": "头发",
+          "HairSmoothnessRate": "头发光滑度",
+          "HandGao": "挠抓",
+          "HandGood": "大拇指",
+          "HandGrip": "握紧",
+          "HandIndex": "指",
+          "HandNatural": "自然",
+          "HandOpen": "打开",
+          "HandReductionStrength": "手",
+          "HandV": "比 V",
+          "HueShift": "色相",
+          "ImagesHeader": "步骤 2",
+          "Intensity": "强度",
+          "Light": "光照",
+          "LightColor": "颜色",
+          "LightDegreeAltitude": "垂直角",
+          "LightDegreeAzimuth": "水平角",
+          "LightIntencity": "强度",
+          "LightPropertyLabel": "光照",
+          "LightReset": "重置",
+          "LoadingMessage": "加载中",
+          "LoadPose": "加载姿势",
+          "Login": "登录",
+          "LoginRequiredMessage": "需要登录 VRoid Hub",
+          "LookAtCamera": "看向镜头",
+          "Male_conduct_music": "指挥乐器",
+          "Male_Damage": "受伤",
+          "Male_Embar": "挠头",
+          "Male_finger_gun": "手指枪",
+          "Male_front_tuck_flip": "前空翻",
+          "Male_Greet0": "问好 0",
+          "Male_Greet1": "问好 1",
+          "Male_Greet2": "问好 2",
+          "Male_Jumping0": "跳 0",
+          "Male_Jumping1": "跳 1",
+          "Male_Kick0": "踢 0",
+          "Male_Kick1": "踢 1",
+          "Male_Kick2": "踢 2",
+          "Male_Pose0": "筋肉 pose 0",
+          "Male_Pose1": "筋肉 pose 1",
+          "Male_Punch": "打拳",
+          "Male_Running": "跑",
+          "Male_Special": "升龙拳",
+          "Male_spot_acrobatic_1": "杂技",
+          "Male_spot_acrobatic_2": "滑铲",
+          "Male_spot_lie_down_2": "躺 2",
+          "Male_spot_target_locked": "真相只有一个/海的那边是敌人/逆转裁判",
+          "Male_Standby0": "站姿 0",
+          "Male_Standby1": "站姿 1",
+          "Male_Standby2": "站姿 2",
+          "Male_Standby3": "站姿 3",
+          "Male_Standby4": "站姿 4",
+          "Male_Standby5": "站姿 5",
+          "Male_Standby6": "站姿 6",
+          "Male_Standby7": "站姿 7",
+          "Male_Walking": "行走",
+          "Male_we_ve_got_this": "抱拳",
+          "MaleAnimationMode": "动画 2",
+          "MaterialCount": "材质数量",
+          "MaterialReduction": "减少材质",
+          "MaterialReductionMode": {
+            "High": "2",
+            "Low": "12",
+            "Medium": "8",
+            "None": "默认"
+          },
+          "Materials": "材质: ",
+          "MeshErasure": "删除透明网格",
+          "MeshReduction": "减少多边形",
+          "MTH": "嘴",
+          "MTH_A": "A",
+          "MTH_Angry": "生气",
+          "MTH_Close": "关闭",
+          "MTH_Down": "下抬",
+          "MTH_E": "E",
+          "MTH_Fun": "开心",
+          "MTH_I": "I",
+          "MTH_Joy": "高兴",
+          "MTH_Large": "扩张",
+          "MTH_Neutral": "默认",
+          "MTH_O": "O",
+          "MTH_SkinFung": "吸血鬼的牙齿 (皮肤)",
+          "MTH_SkinFung_L": "吸血鬼的牙齿 (皮肤, 左)",
+          "MTH_SkinFung_R": "吸血鬼的牙齿 (皮肤, 右)",
+          "MTH_Small": "收窄",
+          "MTH_Sorrow": "沮丧",
+          "MTH_Surprised": "吃惊",
+          "MTH_U": "U",
+          "MTH_Up": "上抬",
+          "Oil": "油画",
+          "OriginalModel": "原始模型",
+          "PlayAnimation": "播放",
+          "PortraitImage": "肖像",
+          "PortraitImageCapturing": "拍照",
+          "PortraitImageCapturingWithProgress": "拍摄肖像缩略图 (2/2)",
+          "Pose": "姿势&动画",
+          "PoseAndAnimation": "姿势&动画",
+          "PoseLeftHand": "左手",
+          "PoseMode": "姿势",
+          "PoseModel": {
+            "AStance": "默认",
+            "CustomPose": "自定义",
+            "shot_aori": "叉手",
+            "shot_face_hand": "托腮帮子",
+            "shot_fight": "打斗",
+            "shot_hair_up": "摸头",
+            "shot_hizidon": "学习",
+            "shot_left_hand": "这边",
+            "shot_newyear_kirarajump_a": "跳",
+            "shot_newyear_nezumi": "凶凶(╯▔皿▔)╯",
+            "shot_nicely_stand": "害羞",
+            "shot_nose": "擦鼻涕",
+            "shot_question": "思考考",
+            "shot_salute": "你好啊( •̀ ω •́ )y",
+            "shot_sitting": "坐",
+            "shot_standingKnee": "跪"
+          },
+          "PoseRightHand": "右手",
+          "PoseWeight": "强度",
+          "PostEffect": "后处理",
+          "PresetPose": "预设姿势",
+          "Print3D": "3D 打印",
+          "Print3DConfirm": "确认表情和姿势",
+          "Print3DConfirmMessage": "3D打印角色会包含姿势和表情.",
+          "Print3DFactory": "pixiv 工坊",
+          "Print3DFactory2": "关于 3D 打印",
+          "Print3DFileSizeOver": "文件过大无法上传至 pixiv 工坊",
+          "Print3DInformation": "3D 打印",
+          "Print3DNote": "3D 打印会使用当前姿势和表情. 如果你选择了动画, 请设置你想要打印的姿势.",
+          "Print3DNotes": "3D打印说明.",
+          "Print3DStep1": "步骤 1",
+          "Print3DStep2": "步骤 2",
+          "Print3DVRoidHelp": "查看帮助",
+          "Print3DVRoidHelp2": "用于 3D 打印",
+          "Processing": "处理中...",
+          "Processing3DPrint": "转换模型数据.",
+          "ReductedModel": "缩减后",
+          "ReductionLevelAdjustment": "调整缩减",
+          "RemoveBackgroundImage": "移除背景图",
+          "Reset": "重置",
+          "ResetPose": "重置",
+          "Saturation": "饱和度",
+          "SavePose": "保存当前姿势",
+          "SelectBackgroundImage": "导入背景图",
+          "SelectCharacterModel": "选择要上传的内容",
+          "SelectLoadPoseFileLocation": "选择一个姿势加载",
+          "SelectSavePoseFileLocation": "选择一个保存位置",
+          "ShowController": "显示控制器",
+          "Smoothness": "平滑度",
+          "SoftKnee": "阈值",
+          "StopAnimation": "停止",
+          "StripDensity": "线条密度",
+          "StripInnerColor": "内边色",
+          "StripLimitsMax": "最大阈值",
+          "StripLimitsMin": "最小阈值",
+          "StripOuterColor": "外边色",
+          "StripThickness": "线条厚度",
+          "TargetCharacterModelHeader": "步骤 1",
+          "Temperature": "色温",
+          "TextureCompressionMode": {
+            "Original": "原始",
+            "Shrinked": "缩小"
+          },
+          "TextureQuality": "纹理质量",
+          "Tint": "色调",
+          "Triangles": "多边形: ",
+          "Upload": "上传",
+          "UploadHeader": "步骤 2",
+          "Uploading": "正在上传, 请稍候. \r\n上传完成后将重定向到 VRoid Hub.",
+          "UploadMode": "上传到 VRoid Hub",
+          "VariationName": "变动名",
+          "Vertices": "顶点: ",
+          "Vignette": "晕影",
+          "VRMSettings": "VRM 设置",
+          "Wind": "风",
+          "WindDirection_X": "X 轴",
+          "WindDirection_Y": "Y 轴",
+          "WindDirection_Z": "Z 轴",
+          "WindReset": "重置"
+        },
+        "PhotoBoothViewPanel": {
+          "PoseSelect": "确认这个姿势",
+          "Print3DConfirm": "确认这个姿势"
+        }
+      },
+      "Print3DScreenTransform": {
+        "Title": "导出 3D 打印到 pixiv FACTORY"
+      },
+      "TextureEditor": {
+        "ColorGroupSection": {
+          "SectionName": "设置颜色"
+        },
+        "ColorSelector": {
+          "HashCharacter": "#",
+          "RGBSlidersHeader": "RGB 滑块"
+        },
+        "ParameterConfigPanel": {
+          "Parameter": "参数"
+        },
+        "SizeSpaceItem": {
+          "UV": "UV",
+          "Viewport": "视野",
+          "World": "世界"
+        },
+        "SketchUniversalCommandUtils": {
+          "DefaultImage": "预设",
+          "Guide": "指南",
+          "Layer": "图层"
+        },
+        "TextureEditorDevInitializer": {
+          "Color": "颜色",
+          "EyeHighlightL": "眼睛高光 (左)",
+          "EyeHighlightR": "眼睛高光 (右)",
+          "EyeIrisL": "瞳孔 (左)",
+          "EyeIrisR": "瞳孔 (右)",
+          "Skin": "面部肌肤",
+          "Tint": "色调",
+          "Unlit": "无光照"
+        },
+        "TextureEditorLayerPanel": {
+          "AddPattern": "添加模板"
+        },
+        "TextureEditorPanel": {
+          "Property": "属性",
+          "Texture": "编辑纹理"
+        },
+        "TextureEditorTexturePanel": {
+          "Layers": "图层"
+        },
+        "TextureEditorViewModel": {
+          "BrushColor": "笔刷颜色",
+          "BrushOpacity": "笔刷不透明度",
+          "BrushParameters": "笔刷参数",
+          "BrushProperties": "笔刷属性",
+          "BrushType": "笔刷类型",
+          "ClothingTemplate": {
+            "Duplicate": "复制",
+            "Remove": "删除",
+            "Rename": "重命名"
+          },
+          "ColorConfig": "颜色校准",
+          "CompositionMode": "绘图模式",
+          "CopyPostfix": "(复制)",
+          "DuplicateLayer": "复制",
+          "ExportGuide": "导出 UV",
+          "ExportLayer": "导出",
+          "Highlight": "头发组突起",
+          "ImportLayer": "导入",
+          "Layer": "图层",
+          "LayerCompositionMode": {
+            "Color": "颜色",
+            "ColorBurn": "颜色加深",
+            "ColorDodge": "颜色减淡",
+            "Darken": "变暗",
+            "DarkerColor": "深色",
+            "Difference": "差异",
+            "Dither": "图像抖动",
+            "Divide": "划分",
+            "Exclusion": "排除",
+            "HardLight": "强光",
+            "HardMix": "实色混合",
+            "Hue": "色相",
+            "Lighten": "变亮",
+            "LighterColor": "浅色",
+            "LinearBurn": "线性加深",
+            "LinearDodge": "线性减淡",
+            "LinearLight": "线性光",
+            "Luminocity": "光泽度",
+            "Multiply": "正片叠底",
+            "Normal": "正常",
+            "Overlay": "叠加",
+            "PinLight": "点光",
+            "Saturation": "对比度",
+            "Screen": "滤色",
+            "SoftLight": "柔光",
+            "Subtract": "减去",
+            "VividLight": "亮光"
+          },
+          "LayerOpacity": "图层不透明度",
+          "LayerProperties": "图层属性",
+          "LineWidth": "笔刷宽度",
+          "MaterialConfig": "材质设定",
+          "MoveDownLayer": "下移",
+          "MoveUpLayer": "上移",
+          "NewLayerNameFormat": "图层 {0}",
+          "NewLayerNameFormatRegex": "图层 (\\d+)",
+          "NormalMapWeight": "强度",
+          "RemoveLayer": "删除",
+          "RenameLayer": "重命名",
+          "Select": "选择",
+          "SizeSpace": "编辑模式",
+          "SubCategory": {
+            "AlphaMask": "皮肤蒙版",
+            "Main": "衣服"
+          },
+          "TextureEdition": "编辑纹理",
+          "ToggleLayerAlphaLock": "切换 Alpha 锁定",
+          "ToggleLayerVisibility": "切换可见"
+        },
+        "TextureSection": {
+          "SectionName": "纹理"
+        }
+      },
+      "TextureEditorScreenTransform": {
+        "MaterialMode": {
+          "Title": "编辑材质纹理"
+        },
+        "TextureMode": {
+          "Title": "编辑纹理"
+        },
+        "Title": "编辑预设"
+      },
+      "VRChatUploadScreenTransform": {
+        "Title": "上传到 VRChat"
+      },
+      "VRMExportScreenTransform": {
+        "Title": "导出 VRM"
+      }
+    },
+    "StartScreen": {
+      "Beta": "Beta 版本的模型",
+      "CopyLabel": "复制",
+      "Duplicate": "复制模型",
+      "OpenModelFolder": "打开模型文件夹",
+      "Recently": "最近编辑",
+      "Remove": "从列表移除",
+      "Rename": "重命名",
+      "RenameModel": "重命名模型",
+      "Sample": "示例模型",
+      "TutorialSelectDialog": {
+        "Anime": "动画风",
+        "Description": "步骤式建模教程. \r\n随时可以观看.",
+        "Illustration": "插画风",
+        "Skip": "跳过",
+        "Title": "欢迎来到 Vroid Studio! 你要做什么模型?",
+        "Watch": "在 Youtube 上观看教程",
+        "Young": "翔太"
+      }
+    },
+    "UserControls": {
+      "DummyBodyPresetView": {
+        "Customize": "自定义",
+        "Preset": "预设"
+      },
+      "DummyClothingPresetView": {
+        "Customize": "自定义",
+        "Preset": "预设"
+      },
+      "DummyFacePresetView": {
+        "Customize": "自定义",
+        "Preset": "预设"
+      },
+      "DummyHairPresetView": {
+        "Customize": "自定义",
+        "Preset": "预设"
+      }
+    },
+    "Util": {
+      "BetaModelUtil": {
+        "BetaModelConversionInProgress": "转换模型中..."
+      }
+    },
+    "VRoidStudioStyle": {
+      "Duplicate": "复制"
+    },
+    "Welcome": {
+      "AppDescription": "你的角色, \r\n如你所想",
+      "Avatars": {
+        "Header": "你的模型",
+        "NewAvatar": "新建模型"
+      },
+      "Login": "登录",
+      "ModelTypeSelection": {
+        "Back": "返回",
+        "Header": "选择一个类型"
+      },
+      "NeedToLogin": "要继续使用 VRoid Studio,\r\n请登录 VRoid.",
+      "Preferences": {
+        "Language": {
+          "English": "简体中文",
+          "Japanese": "日语",
+          "Language_": "语言"
+        },
+        "PreviewQuality": {
+          "High": "高质量",
+          "Normal": "普通质量",
+          "PreviewQuality_": "3D预览质量"
+        }
+      },
+      "Samples": {
+        "Header": "示例模型"
+      }
+    }
+  },
+  "HairEditor": {
+    "BaseHair": "基础头发",
+    "BrushHairGroup": "手绘组 {0}",
+    "Hair": {
+      "HairLabel": "头发",
+      "HairWithNumber": "头发 {0}"
+    },
+    "HairBoneGroup": "骨骼组 {0}"
+  },
+  "Main": {
+    "CoinCharge": {
+      "CoinChargeTransform": {
+        "CoinChargeMode": "购买硬币",
+        "Owned": "硬币",
+        "PurchaseMode": "使用历史",
+        "Sctl": "基于《特定商业交易法》的说明",
+        "Settlement": "基于《支付服务法》的说明"
+      },
+      "CoinUsageNote": {
+        "Android": "可以在 VRoid Android 应用中购买硬币.",
+        "IOS": "可以在 VRoid IOS 应用中购买硬币."
+      },
+      "InitializationFailureReason": {
+        "NoProductsAvailable": {
+          "NoProductsText": "功能还未上线. \r\n请稍后重试."
+        },
+        "PurchasingUnavailable": {
+          "NoProductsText": "此设备已设置购买限制.",
+          "Toast": "购买受限."
+        }
+      },
+      "PurchaseFailureByUnknownReason": "购买时出错.",
+      "PurchaseFailureReason": {
+        "PurchasingUnavailable": "购买受限.",
+        "UserCancelled": "购买已取消"
+      },
+      "PurchaseHistoryModel": {
+        "Description": {
+          "PurchaseModelItem": "购买物品"
+        }
+      },
+      "PurchaseTransform": {
+        "Item": {
+          "Payment": "付费"
+        },
+        "MessageItem": {
+          "Content": "使用历史 \r\n需要 5 分钟更新"
+        }
+      }
+    },
+    "MainViewModel": {
+      "ARNotSupportedError": {
+        "Toast": "设备功能不兼容."
+      },
+      "CreateModelFailed": {
+        "Toast": "创建模型时出错."
+      },
+      "LoadModelFailed": {
+        "Toast": "加载模型时出错."
+      }
+    },
+    "ModelEditor": {
+      "Category": {
+        "CategoryModel": {
+          "name": {
+            "AllHair": "整体头发",
+            "Arm": "胳膊",
+            "ArmAccessory": "手臂配饰",
+            "BaseHair": "基础头发",
+            "Bottoms": "下身",
+            "Cheek": "脸颊",
+            "Chest": "胸部",
+            "ClothingSet": "全身套装",
+            "Ear": "耳朵",
+            "ExpressionEdit": "面部表情",
+            "Eye": "瞳孔",
+            "EyeBall": "瞳孔",
+            "EyeballSet": "瞳孔",
+            "Eyebrow": "眉毛",
+            "EyeHighlight": "瞳孔高光",
+            "Eyelash": "睫毛",
+            "Eyelid": "眼角",
+            "Eyeline": "眼线",
+            "EyeSet": "眼睛",
+            "EyeSurrounding": "眼睛形状",
+            "EyeWhite": "眼白",
+            "FacePaint": "脸部彩绘",
+            "FaceSet": "脸型",
+            "FaceShape": "脸型",
+            "HairAhoge": "呆毛",
+            "HairBack": "后发",
+            "HairFront": "前发",
+            "HairHanege": "额外发",
+            "HairSet": "发型套装",
+            "HairSideburns": "鬓角",
+            "HairTied": "辫子",
+            "Hand": "手",
+            "Head": "头",
+            "InnerBottom": "下身内衣",
+            "InnerTop": "上身内衣",
+            "Leg": "腿",
+            "Lip": "嘴唇",
+            "Mouth": "口腔",
+            "MouthLine": "嘴",
+            "Neck": "脖子",
+            "NeckAccessory": "脖子配饰",
+            "Nose": "鼻子",
+            "NoseLighting": "鼻子轮廓",
+            "Onepiece": "连衣裙",
+            "Shoes": "鞋子",
+            "Shoulder": "肩膀",
+            "Skin": "皮肤",
+            "Socks": "袜子",
+            "Tops": "上身",
+            "Torso": "躯干",
+            "Waist": "腰",
+            "WholeBody": "身体"
+          }
+        },
+        "ParameterModel": {
+          "name": {
+            "_01AccessoryTieKnotWidth": "领结宽度",
+            "_01AccessoryTieNeckilnePositionSlide": "领带线位置 (滑动)",
+            "_01AccessoryTieNecklinePositionY": "领带线位置 (Y)",
+            "_01AccessoryTieNecklineWidth": "领带线宽度",
+            "_01AccessoryTieTieWidth": "领带宽度",
+            "_02AccessoryTieNecklineWidth": "领带线宽度",
+            "_02AccessoryTiePositionSlide": "位置 (滑动)",
+            "_02AccessoryTiePositionY": "位置 (Y)",
+            "_02AccessoryTieTightenLeftLoop": "左侧丝带结长度",
+            "_02AccessoryTieTightenRightLoop": "右侧丝带结长度",
+            "AdamsApple": "喉结",
+            "ArmLength": "胳膊长度",
+            "BodySuitNeckThickness": "Neck Thickness",
+            "BodySuitNeckWidth": "Neck Width",
+            "BustDirectionX": "胸部张开",
+            "BustDirectionY": "胸部位置 (Y)",
+            "BustPos": "胸部位置",
+            "BustShape": "胸部形状",
+            "BustSize": "胸部尺寸",
+            "BustThickness": "胸部厚度",
+            "CheekPosZ": "颧骨位置 (Z)",
+            "ChinDown": "下巴位置 (Y)",
+            "ChinRoundness": "下巴圆度",
+            "ChinTipPosY": "下巴长度",
+            "ChinTipPosZ": "下巴尖位置 (Z)",
+            "ChinTipScaleX": "下巴宽度",
+            "ClavicleLow": "软化锁骨",
+            "EarDirection": "耳朵向后",
+            "EarOff": "移除耳朵",
+            "EarRound": "圆耳朵",
+            "EarSize": "耳朵尺寸",
+            "EarTipPosY": "耳尖位置 (Y)",
+            "EarTipWide": "耳朵伸展",
+            "EyebrowDistance": "眉毛位置 (X)",
+            "EyebrowFemale": "女性眉毛",
+            "EyebrowHeight": "眉毛高度",
+            "EyebrowMale": "男性眉毛",
+            "EyebrowPosZ": "眉毛位置 (Z)",
+            "EyebrowRotate": "眉毛旋转 (Z)",
+            "EyebrowRotateY": "眉毛旋转 (Z)",
+            "EyebrowScaleX": "眉毛长度",
+            "EyebrowScaleY": "眉毛厚度",
+            "EyebrowTilt": "眉毛倾斜",
+            "EyeCenterPosY": "眼睛中间位置 (Y)",
+            "EyeCenterPosYDown": "移动上眼睑向下",
+            "EyeCenterPosYUp": "移动下眼睑向上",
+            "EyeInsidePosY": "内眼角位置 (Y)",
+            "EyeInsideSuppressCurve": "内眼角曲线",
+            "EyeJitome": "轻蔑的眼神",
+            "EyelashLow": "睫毛角度",
+            "EyelidStraightLower": "拉直下眼睑",
+            "EyelidStraightUpper": "拉直上眼睑",
+            "EyeOutsidePosY": "外眼角位置 (Y)",
+            "EyePosX": "眼睛位置 (X)",
+            "EyePosY": "眼睛位置 (Y)",
+            "EyeRotate": "旋转眼窝",
+            "EyeShapeFemale": "女性眼睛",
+            "EyeShapeMale": "男性眼睛",
+            "EyeSizeX": "眼睛尺寸 (X)",
+            "EyeSizeY": "眼睛尺寸 (Y)",
+            "EyeTareme": "眼睛下垂",
+            "FaceContourFemale": "女性轮廓",
+            "FaceContourMale": "男性轮廓",
+            "FacelinePosY": "下颌线 (Y)",
+            "FacelinePosZ": "颧骨位置 (Z)",
+            "FaceShapeFemale": "女性脸",
+            "FaceShapeMale": "男性脸",
+            "FigureSizeY": "高度",
+            "FingerThickness": "手指粗细",
+            "FootSize": "脚尺寸",
+            "FullCheeked": "脸颊宽度",
+            "FullCheekedTestVersion": "脸颊宽度 (Test)",
+            "HandSize": "手指大小",
+            "HeadShapeFemale": "女性头型",
+            "HeadShapeMale": "男性头型",
+            "HeadSize": "头尺寸",
+            "HeadSizeX": "头宽度",
+            "HeightFemale": "女性身高",
+            "HeightMale": "男性身高",
+            "HeightNeutral": "高度",
+            "IrisDistance": "瞳孔间距",
+            "IrisGazeY": "瞳孔高度 (Y)",
+            "IrisScaleX": "瞳孔尺寸 (X)",
+            "IrisScaleY": "瞳孔尺寸 (Y)",
+            "JawZ": "下巴尖位置 (Z)",
+            "LegLength": "腿长度",
+            "LipsFlat": "薄嘴唇",
+            "LipsThick1Lower": "加厚下唇 (女性)",
+            "LipsThick1Upper": "加厚上唇 (女性)",
+            "LipsThick2Lower": "加厚下唇 (男性)",
+            "LipsThick2Upper": "加厚上唇 (男性)",
+            "MandibleSize": "颚角 (增加)",
+            "MouthCornerPosY": "嘴角 (Y)",
+            "MouthCornersY": "嘴角 (Y)",
+            "MouthPosY": "嘴位置 (Y)",
+            "MouthShapeFemale": "女性嘴",
+            "MouthShapeMale": "男性嘴",
+            "MouthSizeX": "嘴宽度",
+            "MouthSkinFung": "吸血鬼的牙齿 (嘴唇)",
+            "MouthSkinFungL": "吸血鬼的牙齿 (皮肤, 左)",
+            "MouthSkinFungR": "吸血鬼的牙齿 (皮肤, 右)",
+            "MouthZ": "嘴位置 (Z)",
+            "NeckLength": "脖子长度",
+            "NeckScaleX": "脖子缩放 (X)",
+            "NeckScaleZ": "脖子缩放 (Z)",
+            "NoseBottomPosY": "鼻底位置 (Y)",
+            "NoseBottomPosZ": "鼻底位置 (Z)",
+            "NoseBridgeScaleX": "鼻梁宽度",
+            "NoseCurve": "鼻子曲线",
+            "NoseFemale": "女性鼻子",
+            "NoseMale": "男性鼻子",
+            "NosePosY": "鼻尖位置 (Y)",
+            "NoseRootLow": "鼻根向后",
+            "NoseScale": "鼻子缩放",
+            "NoseSize": "鼻子尺寸",
+            "NoseWholePosY": "鼻子尺寸缩放",
+            "NoseWide": "鼻子宽度",
+            "NoseWidth": "鼻子宽度",
+            "NoseWingScaleX": "鼻翼缩放 (X)",
+            "ShoulderBreadth": "肩宽",
+            "SinciputPosY": "后脑高度",
+            "ToothFung1": "吸血鬼的牙齿",
+            "ToothFung1Lower": "吸血鬼的牙齿 (下)",
+            "ToothFung1Upper": "吸血鬼的牙齿 (上)",
+            "ToothFung2": "鲨鱼牙齿",
+            "ToothFung2Lower": "鲨鱼牙齿 (下)",
+            "ToothFung2Upper": "鲨鱼牙齿 (上)",
+            "ToothFung3": "门牙",
+            "ToothFung3Lower": "门牙 (下)",
+            "ToothFung3Upper": "门牙 (上)",
+            "ToothHide": "隐藏牙齿",
+            "ToothHideLower": "隐藏牙齿 (下)",
+            "ToothHideUpper": "隐藏牙齿 (上)",
+            "ToothShort": "牙齿收缩",
+            "ToothShortLower": "牙齿收缩 (下)",
+            "ToothShortUpper": "牙齿收缩 (上)",
+            "WaistLength": "躯干长度",
+            "WaistWidth": "腰围",
+            "WholeBodyScale": "身体大小"
+          }
+        },
+        "PresetOptionViewModel": {
+          "LoadFailed": {
+            "Toast": "加载数据时出错"
+          }
+        }
+      },
+      "Configuration": {
+        "CombinedParameterViewModel": {
+          "Name": {
+            "EyebrowAngle": "眉毛角度",
+            "EyebrowDistance": "眉毛位置 (X)",
+            "EyebrowPosY": "眉毛位置 (Y)",
+            "EyebrowRotation": "眉毛倾斜",
+            "EyeIrisSizeX": "瞳孔尺寸 (X)",
+            "EyeIrisSizeY": "瞳孔尺寸 (Y)",
+            "GazeDistance": "瞳孔间距",
+            "GazeDistance2": "目光间距",
+            "GazePosY": "目光 (Y)"
+          }
+        }
+      },
+      "ModelEditorViewModel": {
+        "GetForFreeFailed": "物品收集时错误",
+        "GetForFreeSucceeded": "物品收集完成",
+        "PaidPurchaseFailed": "购买时出错.",
+        "PaidPurchaseSucceeded": "购买成功"
+      }
+    },
+    "Share": {
+      "Broadcaster": {
+        "Mirrativ": "Mirrativ"
+      },
+      "Consumer": {
+        "MichiconPlus": "ミチコンPlus",
+        "ShowroomV": "SHOWROOM V",
+        "SpringFighter": "SPRingFighterV -TYPE VROID-",
+        "Vismuth": "Vismuth",
+        "VPocket": "VPocket",
+        "VStamp": "Vスタンプ"
+      },
+      "Receiver": {
+        "ReceiverModel": {
+          "name": {
+            "CharacterShare": "在 VRoid Hub 上发布"
+          }
+        }
+      }
+    },
+    "Studio": {
+      "Model": {
+        "TermsOfUseItemViewModel": {
+          "Characterization": "用作头像",
+          "CommercialUseOK": "是 - 营利性的",
+          "CorporateCommercialUse": "企业商用",
+          "Credit": "信用",
+          "Modification": "修改",
+          "NG": "否",
+          "OK": "是",
+          "Optional": "可选项",
+          "PersonalCommercialUse": "独立商用",
+          "PersonalUseOK": "是 - 非营利性",
+          "Redistribution": "二次配布",
+          "Required": "需要",
+          "SexualExpression": "性描绘",
+          "Undefined": "TBD",
+          "ViolentExpression": "暴力描绘"
+        },
+        "View": {
+          "TermsOfUseDialogTransform": {
+            "Agreement": "我同意此模型的使用条款",
+            "Title": "使用条款"
+          }
+        }
+      },
+      "Stage": {
+        "PhotoViewModel": {
+          "TextureDownloadFailed": "保存图片时出错.",
+          "TextureDownloadSucceeded": "保存成功",
+          "UpdateEventsFailed": "加载事件时出错."
+        },
+        "PostProcessParameter": {
+          "PostProcessParameterViewModel": {
+            "Label": {
+              "Bloom": "泛光",
+              "ChromaticAberration": "色差",
+              "ColorTemperature": "色温",
+              "Contrast": "对比度",
+              "DepthOfField": "景深",
+              "Frame": "框架",
+              "Grain": "Grain粒子",
+              "Hue": "色相",
+              "Light": "亮度",
+              "Saturation": "饱和度",
+              "Vignette": "晕影"
+            }
+          }
+        },
+        "Progress": {
+          "TipModel": {
+            "Body": {
+              "Focus": "应用过滤器时, 尝试使用模糊功能并点击屏幕使其聚焦!",
+              "Hub": "单独拍摄模式中, 点击右上角的图标, 使用 VRoid Hub 中的角色!",
+              "Landscape": "横屏使用手机移动更方便!",
+              "Posing": "点击小人图标, 为你的角色选择动作或表情"
+            },
+            "Title": {
+              "Focus": "聚焦",
+              "Hub": "使用 VRoid Hub 中的角色",
+              "Landscape": "横屏模式",
+              "Posing": "摆个姿势!"
+            }
+          }
+        },
+        "StageViewModel": {
+          "ChannelJoined": "进入成功",
+          "Notification": "消息提示",
+          "UserJoined": "{0} 进入的房间"
+        }
+      },
+      "StageType": {
+        "StageTypeViewModel": {
+          "MarkDownloadFailed": "下载水印时出错, \r\n当前任务不可用."
+        }
+      },
+      "StudioViewModel": {
+        "AnimationDownloadFailed": "加载动作数据时出错. \r\n请检查网络连接并重试.",
+        "DownloadingAnimationData": "正在下载动作数据",
+        "DownloadingWorld": "正在下载 3D photo studios 数据",
+        "WorldCommonDownloadFailed": "下载数据时出错. \r\n请检查网络连接并重试.",
+        "WorldDownloadFailed": "下载 3D photo studios 时出错. \r\n请检查网络连接并重试."
+      }
+    },
+    "View": {
+      "AboutTransform": {
+        "Licenses": "许可",
+        "ModelTerms": "模型使用条款",
+        "Version": "版本信息"
+      },
+      "AccountsTransform": {
+        "Title": "管理账户"
+      },
+      "AnnouncementTransform": {
+        "Error": "加载新闻时出错",
+        "Title": "新闻"
+      },
+      "BundleDownloadProgressTransform": {
+        "Description": "下载数据中, 请等待"
+      },
+      "CharacterTypeSelectorTransform": {
+        "Title": "创建角色"
+      },
+      "EyeColorSetCollectionConfiguratorTransform": {
+        "BulkEdit": "编辑双眼",
+        "CustomColor": "自定义颜色",
+        "Edit": "编辑",
+        "Exit": "关闭",
+        "LeftEye": "左眼",
+        "RightEye": "右眼"
+      },
+      "LicensesTransform": {
+        "Title": "许可"
+      },
+      "MainTransform": {
+        "AgeConfirmation": "创建账户年龄必须达到 13 岁",
+        "Agree": "我同意",
+        "BundleDownloadConfirmation": {
+          "Description": "开始下载必要文件 ({0:f1} {1})"
+        },
+        "BundleDownloadRetry": {
+          "Description": "下载必要文件时出错. \r\n请检查网络连接并重试."
+        },
+        "CancelDialog": {
+          "ConfirmationText": "关闭",
+          "Description": "如果关闭而不保存, 编辑内容将丢失.\r\n您确定要关闭吗? ",
+          "Title": "未保存的改动"
+        },
+        "CharacterNaming": {
+          "Description": "为角色起名. 名称最大长 32 字符",
+          "Title": "新建角色"
+        },
+        "CharacterRenaming": {
+          "Title": "重命名角色"
+        },
+        "CoinChargeWarning": {
+          "ConfirmationText": "充值",
+          "Description": "不充钱你会变强?",
+          "Title": "硬币不足"
+        },
+        "DeleteAccountDataConfirmation": {
+          "Description": "若删除账户数据, \r\n所有模型都会丢失.",
+          "Title": "删除账户数据"
+        },
+        "DeleteCharacterConfirmation": {
+          "Description": "删除角色后模型也会丢失.",
+          "Title": "删除这个角色?"
+        },
+        "DeleteModelConfirmation": {
+          "Title": "删除这个模型?"
+        },
+        "FirstCharacterCreationMessage": {
+          "ConfirmationText": "开始创建",
+          "Description": "在 VRoid Studio 中, 你可以创建 3D 角色, 装扮并拍照. 创建自己的 3D 角色吧!",
+          "Title": "开始制作 3D 角色吧!"
+        },
+        "Help": "FAQ",
+        "LoginFailureMessage": {
+          "Description": "登录时出错. \r\n请检查网络连接并重试.",
+          "Title": "登录时出错"
+        },
+        "LogoutConfirmation": {
+          "Description": "您将登出 VRoid. \r\n确认登出?"
+        },
+        "MaintenanceMessage": {
+          "ConfirmationText": "转到 VRoid 推特",
+          "Description": "应用正在维护. \r\n请稍后重试.",
+          "Title": "维护中"
+        },
+        "ModelNaming": {
+          "Description": "为模型起名. 名称最大长 32 字符",
+          "Title": "创建一个模型"
+        },
+        "ModelRenaming": {
+          "Title": "重命名模型"
+        },
+        "Naming": {
+          "ConfirmationText": "确认",
+          "Placeholder": "例如 Shibu Sendagaya"
+        },
+        "Notice": "使用 VRoid Studio 前, 您需要同意使用条款、隐私政策和准则",
+        "PrivacyPolicyConfirmation": {
+          "Description": "VRoid Studio 的隐私政策于 2020 年 3 月 30 日更新.",
+          "Title": "请参阅隐私政策"
+        },
+        "PurchaseDeferred": {
+          "Description": "订单已提交. \r\n继续购买前请检查订单."
+        },
+        "RequireToBackToHomeToAcceptInvitation": {
+          "Description": "请返回主页后加入房间"
+        },
+        "RequireToBackToHomeToShooting": {
+          "Description": "请返回主页后访问 photo booth"
+        },
+        "RetryFetchCoin": {
+          "Description": "加载硬币钱包时出错. \r\n请检查网络连接并重试."
+        },
+        "StudioFetchFailedMessage": {
+          "Description": "加载 3D photo studios 时出错. \r\n请检查网络连接并重试.",
+          "Title": "连接错误"
+        },
+        "UpdateApplicationConfirmation": {
+          "ConfirmationText": "检查更新",
+          "Description": "分享拍摄模式仅可用于最新版本应用."
+        },
+        "UpdateAssetBundle": {
+          "Description": "分享拍摄模式仅可用于最新版本应用. \r\n请在他人重启设备后重试."
+        },
+        "UpdateRequiredMessage": {
+          "Description": "有新的版本可用. 请更新应用.",
+          "Title": "更新"
+        },
+        "ValidateProductInCoinCharge": {
+          "ConfirmationText": "收集",
+          "Description": "购买硬币前需要收集硬币.  \r\n确认收集?"
+        },
+        "ValidateProductInHome": {
+          "ConfirmationText": "收集",
+          "Description": "需要收集硬币. \r\n确认收集?"
+        },
+        "VRMUploadFailureMessage": {
+          "Description": "上传 VRM 时出错. \r\n请检查网络连接并重试.",
+          "Title": "连接错误"
+        },
+        "VRMUploadingMessage": "正在上传至 VRoid Hub",
+        "WaitForUnityIap": {
+          "Description": "连接超时. \r\n请检查网络连接并重试."
+        },
+        "WorldInvitationConfirmation": {
+          "ConfirmationText": "加入",
+          "Description": "加入受邀房间?"
+        }
+      },
+      "PurchaseTransform": {
+        "Total": "总共"
+      },
+      "SettingsCopyableTextTransform": {
+        "Copied": "已复制 {0}"
+      },
+      "SettingsTransform": {
+        "Account": "账户设置",
+        "Screen": "屏幕设置"
+      },
+      "ShareTransform": {
+        "Broadcasters": "转到直播",
+        "Consumers": "受支持的 App",
+        "OtherConsumers": "查看更多 App"
+      },
+      "ShareVRMUploadTransform": {
+        "Content": "上传数据到 VRoid Hub"
+      },
+      "Studio": {
+        "Stage": {
+          "EmotionDrawerTransform": {
+            "Emotion": "表情",
+            "Pose": "动作"
+          },
+          "LogsDrawerTransform": {
+            "Input": "说点什么"
+          },
+          "ModelsDrawerTransform": {
+            "HasNoHeartedModelsHeartFirstLineWide": "❤",
+            "HasNoHeartedModelsHeartSecondLineWide": "",
+            "HasNoHeartedModelsPrefix": "VRoid Hub 中心",
+            "HasNoHeartedModelsPrefixWide": "VRoid Hub 中心",
+            "HasNoHeartedModelsSecondLine": "[待翻译]呼び出すことができます ?可以调用",
+            "HasNoHeartedModelsSecondLineWide": "[待翻译]ラクターを呼び出すこと ?可以呼出",
+            "HasNoHeartedModelsSuffix": "已添加 ❤ 的角色",
+            "HasNoHeartedModelsSuffixWide": "[待翻译]したキャ ?我做了",
+            "HasNoHeartedModelsThirdLineWide": "[待翻译]ができます ?我可以",
+            "HasNoMyModels": "上传角色至 VRoid Hub 并调用",
+            "HasNoMyModelsWide": "上传角色至 VRoid Hub 并调用",
+            "HeartedCharacter": "添加 ❤ 的角色",
+            "HeartedCharacterPrefix": "",
+            "HeartedCharacterSuffix": "[待翻译]したキャラクター ?角色",
+            "IsLoading": "加载模型",
+            "LinkToVRoidHub": "转到 VRoid Hub",
+            "More": "查看更多",
+            "Reload": "重试"
+          },
+          "PhotoPreviewTransform": {
+            "AddMark": "添加水印",
+            "Mark": "水印",
+            "Save": "保存",
+            "Share": "分享",
+            "UploadVRoidHubTall": "发布在\r\nVRoid Hub上",
+            "UploadVRoidHubWide": "在 VRoid Hub 上发布"
+          },
+          "PlaceModelsDrawerTransform": {
+            "IsMaxSinglePlayer": "房间已满"
+          },
+          "PlayerInfoDrawerTransform": {
+            "Kick": "踢出",
+            "Member": "成员"
+          },
+          "ProgressTransform": {
+            "Loading": "加载中"
+          },
+          "ScanPromptTransform": {
+            "Text": "移动你的设备\r\n并扫描物体表面"
+          },
+          "StageTransform": {
+            "ExitConfirmation": {
+              "ConfirmationText": "离开",
+              "Description": "确认离开?",
+              "Title": "离开"
+            },
+            "Next": "下一步",
+            "PhotoDiscardConfirmation": {
+              "ConfirmationText": "丢弃",
+              "Description": "所有改动将会丢失. \r\n确定丢弃此照片?",
+              "Title": "丢弃照片"
+            },
+            "ReconnectConfirmation": {
+              "ConfirmationText": "重新连接",
+              "Description": "连接已关闭, 尝试重新连接?",
+              "Title": "连接错误"
+            },
+            "ShareConfirmation": {
+              "ConfirmationText": "复制链接",
+              "Description": "分享链接给好友, 至多邀请 4 人分享拍摄",
+              "Title": "分享拍摄"
+            }
+          },
+          "UploadVRoidHubTransform": {
+            "AgeLimit": "年龄分级",
+            "AgeLimitNormal": "全年龄",
+            "AgeLimitR15": "R-15",
+            "AgeLimitR18": "R-18",
+            "AttendingEvent": "事件",
+            "Caption": "说明",
+            "CaptionPlaceholder": "添加说明或使用标签",
+            "FailureDescription": "图片上传时出错. \r\n请检查网络连接并重试",
+            "FailureTitle": "连接失败",
+            "None": "没有",
+            "Notice": "若发布, 则同意使用条款和准则.",
+            "Upload": "发布",
+            "UploadCheck": "转到 VRoid Hub",
+            "UploadDoneMessage": "照片发布成功, \r\n在 VRoid Hub上检视?",
+            "UploadVRoidHub": "发布在 VRoid Hub 上"
+          }
+        },
+        "StudioSelectorTransform": {
+          "DownloadingWorld": "正在下载 3D Photo Studio 数据",
+          "Error": "出错了. \r\n请检查网络连接并重试",
+          "Multiplay": "一起拍摄",
+          "Singleplay": "单独拍摄",
+          "Title": "你要去哪儿?",
+          "WorldDownloadError": {
+            "Title": "无法打开 photo studio"
+          }
+        }
+      },
+      "StudioActionButtonTutorialTransform": {
+        "Message": "为你的角色拍摄照片!"
+      },
+      "WelcomeTransform": {
+        "Accounts": "账户管理"
+      }
+    }
+  },
+  "Mobile": {
+    "Main": {
+      "View": {
+        "Main": {
+          "OK": "OK"
+        },
+        "MainTransform": {
+          "OK": "OK"
+        },
+        "ModelSelectorTransform": {
+          "xaml_0": "失败",
+          "xaml_1": "失败"
+        },
+        "Studio": {
+          "Stage": {
+            "Custom": "自定义",
+            "ModelsDrawer": {
+              "ModelsDrawerTab": {
+                "VRoidHub": "VRoid Hub"
+              },
+              "ModelsDrawerTabTransform": {
+                "VRoidHun": "VRoid Hub"
+              },
+              "VRoidHub": "VRoid Hub"
+            },
+            "NoFilter": "无滤镜",
+            "PhotoDrawer": {
+              "Custom": "自定义",
+              "NoFilter": "无滤镜",
+              "Sixty": "60"
+            },
+            "PhotoDrawerTransform": {
+              "Custom": "自定义",
+              "NoFilter": "无滤镜",
+              "Sixty": "60"
+            }
+          }
+        }
+      }
+    },
+    "View": {
+      "AlertDialog": {
+        "Ok": "OK"
+      },
+      "AlertDialogTransform": {
+        "Ok": "OK"
+      },
+      "AlertPrimaryDialog": {
+        "Ok": "OK"
+      },
+      "AlertPrimaryDialogTransform": {
+        "Ok": "OK"
+      },
+      "RetryFetchCoinDialog": {
+        "Retry": "重试"
+      },
+      "RetryFetchCoinDialogTransform": {
+        "Retry": "重试"
+      }
+    }
+  },
+  "Model": {
+    "F00": {
+      "Accessory": {
+        "F00_000": "基础模型",
+        "F00_001_01": "制服 (短裙)",
+        "F00_002_01": "连衣裙",
+        "F00_003_01": "制服 (裤子)",
+        "F00_004_01": "正装 1",
+        "F00_005_01": "便装 1",
+        "F00_006_01": "便装 2",
+        "F00_007_01": "便装 3",
+        "F00_008_01": "大衣"
+      },
+      "Casual1": {
+        "BlendShape": {
+          "HeightLong": "下摆长度",
+          "ShoesHi": "鞋底高度 (加高)",
+          "ShoesLow": "鞋底高度 (降低)",
+          "SleeveLong": "袖子长度 (更长)",
+          "SleeveNarrow": "袖子宽度 (更窄)",
+          "WidthWide": "腰宽 (更宽)"
+        }
+      },
+      "Casual2": {
+        "BlendShape": {
+          "FoodNarrow": "兜帽大小 (更小)",
+          "HeightLong": "下摆长度",
+          "ShoesHi": "鞋底高度 (加高)",
+          "ShoesLow": "鞋底高度 (降低)",
+          "SleeveCrease": "袖子折痕 (加深)",
+          "SleeveSqueeze": "袖口收窄",
+          "SleeveThick": "袖子厚度",
+          "WidthWide": "腰宽 (更宽)"
+        }
+      },
+      "Casual3": {
+        "BlendShape": {
+          "ShoesHi": "鞋底高度 (加高)",
+          "ShoesLow": "鞋底高度 (降低)"
+        }
+      },
+      "ClothingSet": {
+        "F00_000": "基础模型",
+        "F00_001_01": "制服 (短裙)",
+        "F00_002_01": "连衣裙",
+        "F00_003_01": "制服 (裤子)",
+        "F00_004_01": "正装 1",
+        "F00_005_01": "便装 1",
+        "F00_006_01": "便装 2",
+        "F00_007_01": "便装 3",
+        "F00_008_01": "大衣"
+      },
+      "Formal1": {
+        "BlendShape": {
+          "HeightLong": "下摆长度",
+          "ShoesHeelSmall": "Pin Heel",
+          "ShoesHi": "鞋底高度",
+          "SleeveNarrow": "袖子宽度 (更窄)",
+          "WaistNarrow": "腰宽 (更窄)"
+        }
+      },
+      "LongCoat": {
+        "BlendShape": {
+          "AllVolume": "衣服厚度 (增加)",
+          "ArmFat": "袖子厚度",
+          "ArmLong": "袖子长度 (更长)",
+          "ArmPuff00": "袖子泡泡袖 (大)",
+          "ArmPuff01": "袖子泡泡袖 (微妙)",
+          "ArmRoll": "袖口卷起",
+          "ArmShort": "袖子长度 (更短)",
+          "ArmSpread": "袖口宽度",
+          "ArmWide00": "袖子宽度",
+          "ArmWide01": "袖口宽度 (更宽)",
+          "ArmWideFlat00": "袖子宽度 (向后)",
+          "ArmWideFlat01": "袖口宽度 (向后)",
+          "ArmWrinkle": "下摆折痕",
+          "NeckFlat": "肩斜",
+          "NeckHigh": "衣领拉高",
+          "NeckInside": "领口松紧",
+          "NeckLow": "衣领降低",
+          "NeckNarrow": "衣领松紧",
+          "NeckVolume": "衣领厚度",
+          "NeckWave": "衣领下垂",
+          "NeckWide": "衣领宽度",
+          "NeckWrinkle": "衣领缝",
+          "ShoulderCrees": "肩缝",
+          "ShoulderPuff00": "肩部泡泡袖 1",
+          "ShoulderPuff01": "肩部泡泡袖 2",
+          "ShoulderPuff02": "肩部泡泡袖 3",
+          "ShoulderUP": "肩峰抬高",
+          "ShoulderWide": "肩垫",
+          "UnderLong": "下摆长度 (更长)",
+          "UnderShort": "下摆长度 (更短)",
+          "UnderStretch": "裙子从腰部变宽",
+          "UnderTight": "下摆宽度 (更窄)",
+          "UnderWave": "下摆折痕",
+          "UnderWide": "下摆宽度",
+          "WaistFlat": "腰宽 (更宽)",
+          "WestThin00": "腰围 (腰带)",
+          "WestThin01": "腰围 (皮带)",
+          "WestThin02": "腰围 (后部)",
+          "WestThin03": "腰围 (收紧)",
+          "WestThin04": "腰围 (加宽凹陷)",
+          "WestWrinkle": "腰部折痕宽度"
+        }
+      },
+      "Material": {
+        "F00_000_00_Body_00_SKIN": "皮肤",
+        "F00_000_00_EyeExtra_01_EYE": "Extra",
+        "F00_000_00_EyeHighlight_00_EYE": "眼睛高光",
+        "F00_000_00_EyeIris_00_EYE": "瞳孔",
+        "F00_000_00_EyeWhite_00_EYE": "眼白",
+        "F00_000_00_Face_00_SKIN": "皮肤",
+        "F00_000_00_FaceBrow_00_FACE": "眉毛",
+        "F00_000_00_FaceEyelash_00_FACE": "睫毛",
+        "F00_000_00_FaceEyeline_00_FACE": "眼线",
+        "F00_000_00_FaceMouth_00_FACE": "嘴",
+        "F00_001_01_AccessoryNeck_01_CLOTH": "缎带",
+        "F00_001_01_Body_00_SKIN": "Skin (制服裙)",
+        "F00_001_01_Bottoms_01_CLOTH": "制服群",
+        "F00_001_01_Shoes_01_CLOTH": "乐福鞋",
+        "F00_001_01_Tops_01_CLOTH": "制服内衬 (短袖)",
+        "F00_001_02_Tops_01_CLOTH": "制服内衬 (长袖)",
+        "F00_002_01_Shoes_01_CLOTH": "鞋子 (裙子)",
+        "F00_002_01_Tops_01_CLOTH": "连衣裙 (长袖)",
+        "F00_002_02_Body_00_SKIN": "Skin (裙子)",
+        "F00_002_02_Tops_01_CLOTH": "",
+        "F00_002_03_Tops_01_CLOTH": "连衣裙 (短袖)",
+        "F00_002_04_Tops_01_CLOTH": "连衣裙 (铅笔裙)",
+        "F00_003_01_AccessoryNeck_01_CLOTH": "领带",
+        "F00_003_01_Body_00_SKIN": "Skin (制服裤子)",
+        "F00_003_01_Bottoms_01_CLOTH": "内裤",
+        "F00_003_01_Shoes_01_CLOTH": "乐福鞋",
+        "F00_003_01_Tops_01_CLOTH": "制服内衬 (裤子, 短袖)",
+        "F00_003_02_Tops_01_CLOTH": "制服内衬 (裤子, 长袖)",
+        "F00_004_00_Body_00_SKIN": "Skin (正装 1)",
+        "F00_004_01_Bottoms_01_CLOTH": "铅笔裙",
+        "F00_004_01_Shoes_01_CLOTH": "高跟鞋",
+        "F00_004_01_Tops_01_CLOTH": "迷你T恤",
+        "F00_005_01_Shoes_01_CLOTH": "运动鞋",
+        "F00_005_01_Tops_01_CLOTH": "T恤",
+        "F00_006_01_Shoes_01_CLOTH": "篮球运动鞋",
+        "F00_006_01_Tops_01_CLOTH": "连帽衫",
+        "F00_007_01_Shoes_01_CLOTH": "高帮运动鞋",
+        "F00_008_01_Body_00_SKIN": "Skin (大衣)",
+        "F00_008_01_Bottoms_01_CLOTH": "裤子 (大衣)",
+        "F00_008_01_Tops_01_CLOTH": "大衣 (高领)",
+        "F00_008_02_Tops_01_CLOTH": "大衣 (衬衣领)",
+        "F00_008_03_Tops_01_CLOTH": "大衣 (立领)"
+      },
+      "PartGroup": {
+        "F00_000_00_Body": "基础模型",
+        "F00_001_01_AccessoryNeck": "蝴蝶结",
+        "F00_001_01_Body": "Body (制服裙)",
+        "F00_001_01_Bottoms": "制服裙",
+        "F00_001_01_Shoes": "乐福鞋",
+        "F00_001_01_Tops": "制服内衬 (短袖)",
+        "F00_001_02_Tops": "制服内衬 (长袖)",
+        "F00_002_01_Body": "Body (裙子)",
+        "F00_002_01_Shoes": "鞋子 (裙子)",
+        "F00_002_01_Tops": "连衣裙 (长袖)",
+        "F00_002_02_Tops": "",
+        "F00_002_03_Tops": "连衣裙 (短袖)",
+        "F00_002_04_Tops": "连衣裙 (铅笔裙)",
+        "F00_003_01_AccessoryNeck": "领带",
+        "F00_003_01_Body": "Body (制服裤子)",
+        "F00_003_01_Bottoms": "内裤",
+        "F00_003_01_Shoes": "乐福鞋 (裤子)",
+        "F00_003_01_Tops": "制服内衬 (裤子, 短袖)",
+        "F00_003_02_Tops": "制服内衬 (裤子, 长袖)",
+        "F00_004_01_Body": "Body (正装 1)",
+        "F00_004_01_Bottoms": "铅笔裙",
+        "F00_004_01_Shoes": "高跟鞋",
+        "F00_004_01_Tops": "迷你T恤",
+        "F00_005_01_Body": "Body (便装 1)",
+        "F00_005_01_Shoes": "运动鞋",
+        "F00_005_01_Tops": "T恤",
+        "F00_006_01_Body": "Body (便装 2)",
+        "F00_006_01_Shoes": "篮球运动鞋",
+        "F00_006_01_Tops": "连帽衫",
+        "F00_007_01_Body": "Body (便装 3)",
+        "F00_007_01_Shoes": "高帮运动鞋",
+        "F00_008_01_Body": "Body (大衣)",
+        "F00_008_01_Bottoms": "裤子 (大衣)",
+        "F00_008_01_Tops": "大衣 (高领)",
+        "F00_008_02_Bottoms": "裤子 (无褶)",
+        "F00_008_02_Tops": "大衣 (衬衣领)",
+        "F00_008_03_Tops": "大衣 (立领)",
+        "F00_Face": "Face"
+      },
+      "Shoes": {
+        "BlendShape": {
+          "Low": "鞋底高度 (降低)"
+        }
+      },
+      "Tops": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "ShoulderFlat": "肩斜",
+          "SkirtALine": "腰宽",
+          "SkirtLength": "裙子长度",
+          "SkirtLightness": "裙摆开口",
+          "SkirtPanier": "裙子体积",
+          "SkirtStraight": "裙摆开口 (更窄)",
+          "SkirtTipSpread": "下摆加宽",
+          "SleeveWidth": "袖子宽度"
+        }
+      },
+      "UniformLongSleeve": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "SleeveCrease": "袖子折痕"
+        }
+      },
+      "UniformPants": {
+        "BlendShape": {
+          "PantsCrease": "裤子褶皱",
+          "PantsWidth": "裤子宽度",
+          "ShoesIn": "裤脚下摆 (收窄)",
+          "ShoesOut": "裤脚下摆 (提高)"
+        }
+      }
+    },
+    "HairEditor": {
+      "BrushHairGroup": "手绘组",
+      "BrushHairGroupIndexed": "手绘组 {0}",
+      "BrushHairStrand": "头发",
+      "BrushHairStrandIndexed": "头发 {0}",
+      "HairBoneGroup": "骨骼组",
+      "HairBoneGroupIndexed": "骨骼组 {0}",
+      "ProceduralHairGroup": "逻辑组",
+      "ProceduralHairGroupIndexed": "逻辑组 {0}",
+      "ProceduralHairStrand": "头发",
+      "ProceduralHairStrandIndexed": "头发 {0}"
+    },
+    "M00": {
+      "Accessory": {
+        "M00_000": "基础模型",
+        "M00_001_01": "制服 (裤子)",
+        "M00_002_01": "连衣裙",
+        "M00_003_01": "制服 (短裙)",
+        "M00_004_01": "正装 1",
+        "M00_005_01": "便装 1",
+        "M00_006_01": "便装 2",
+        "M00_007_01": "便装 3",
+        "M00_008_01": "大衣"
+      },
+      "Casual1": {
+        "BlendShape": {
+          "HightLong": "下摆长度",
+          "Skirt": "下摆宽度 (更宽)",
+          "SleeveLong": "袖子长度 (更长)",
+          "SleeveNarrow": "袖口收窄",
+          "WidthWide": "腰宽"
+        },
+        "Shoes": {
+          "Hi": "鞋底高度 (加高)",
+          "Low": "鞋底高度 (降低)"
+        }
+      },
+      "Casual2": {
+        "BlendShape": {
+          "FoodNarrow": "兜帽大小 (更小)",
+          "HeightLong": "下摆长度",
+          "Skirt": "下摆宽度 (更宽)",
+          "SleeveCrease": "折痕",
+          "SleeveSqueeze": "袖子宽度 (更窄)",
+          "SleeveThick": "袖子厚度",
+          "WidthWide": "腰宽"
+        },
+        "Shoes": {
+          "Hi": "鞋底高度 (加高)",
+          "Low": "鞋底高度 (降低)"
+        }
+      },
+      "Casual3": {
+        "Shoes": {
+          "Hi": "鞋底高度 (加高)",
+          "Low": "鞋底高度 (降低)"
+        }
+      },
+      "ClothingSet": {
+        "M00_000": "基础模型",
+        "M00_001_01": "制服(裤子)",
+        "M00_002_01": "连衣裙",
+        "M00_003_01": "制服 (短裙)",
+        "M00_004_01": "正装 1",
+        "M00_005_01": "便装 1",
+        "M00_006_01": "便装 2",
+        "M00_007_01": "便装 3",
+        "M00_008_01": "大衣"
+      },
+      "Formal1": {
+        "BlendShape": {
+          "HeightLong": "下摆长度",
+          "ShoesHeelSmall": "鞋跟宽度",
+          "ShoesHi": "鞋底高度",
+          "SleeveNarrow": "袖子宽度 (更窄)",
+          "WaistNarrow": "腰宽 (更窄)"
+        }
+      },
+      "LongCoat": {
+        "BlendShape": {
+          "AllVolume": "衣服厚度 (增加)",
+          "ArmFat": "袖子厚度",
+          "ArmLong": "袖子长度 (更长)",
+          "ArmPuff00": "袖子泡泡袖 (大)",
+          "ArmPuff01": "袖子泡泡袖 (微妙)",
+          "ArmRoll": "袖口卷起",
+          "ArmShort": "袖子长度 (更短)",
+          "ArmSpread": "袖口宽度",
+          "ArmWide00": "袖子宽度",
+          "ArmWide01": "袖口宽度 (更宽)",
+          "ArmWideFlat00": "袖子宽度 (向后)",
+          "ArmWideFlat01": "袖口宽度 (向后)",
+          "ArmWrinkle": "袖子折痕",
+          "NeckFlat": "肩斜",
+          "NeckHigh": "衣领拉高",
+          "NeckInside": "领口松紧",
+          "NeckLow": "衣领降低",
+          "NeckNarrow": "衣领松紧",
+          "NeckVolume": "衣领厚度",
+          "NeckWave": "衣领下垂",
+          "NeckWide": "衣领宽度 (更宽)",
+          "NeckWrinkle": "衣领缝 (加深)",
+          "ShoulderCrees": "肩缝",
+          "ShoulderPuff00": "肩部泡泡袖 1",
+          "ShoulderPuff01": "肩部泡泡袖 2",
+          "ShoulderPuff02": "肩部泡泡袖 3",
+          "ShoulderUP": "肩峰抬高 (更高)",
+          "ShoulderWide": "肩垫",
+          "UnderLong": "下摆长度 (更长)",
+          "UnderShort": "下摆长度 (更短)",
+          "UnderStretch": "裙子从腰部变宽",
+          "UnderTight": "下摆宽度 (更窄)",
+          "UnderWave": "下摆折痕",
+          "UnderWide": "下摆宽度",
+          "WaistFlat": "腰宽 (更宽)",
+          "WestThin00": "腰围 (腰带)",
+          "WestThin01": "腰围 (皮带)",
+          "WestThin02": "腰围 (后部)",
+          "WestThin03": "腰围 (收紧)",
+          "WestThin04": "腰围 (加宽凹陷)",
+          "WestWrinkle": "腰部折痕宽度"
+        }
+      },
+      "Material": {
+        "M00_000_00_Body_00_SKIN": "皮肤",
+        "M00_000_00_EyeExtra_01_EYE": "Extra",
+        "M00_000_00_EyeHighlight_00_EYE": "眼睛高光",
+        "M00_000_00_EyeIris_00_EYE": "瞳孔",
+        "M00_000_00_EyeWhite_00_EYE": "眼白",
+        "M00_000_00_Face_00_SKIN": "面部肌肤",
+        "M00_000_00_FaceBrow_00_FACE": "眉毛",
+        "M00_000_00_FaceEyelash_00_FACE": "睫毛",
+        "M00_000_00_FaceEyeline_00_FACE": "眼线",
+        "M00_000_00_FaceMouth_00_FACE": "嘴",
+        "M00_000_01_Body_00_SKIN": "皮肤",
+        "M00_001_01_AccessoryNeck_01_CLOTH": "领带",
+        "M00_001_01_Body_00_SKIN": "Skin (制服)",
+        "M00_001_01_Bottoms_01_CLOTH": "制服裤子",
+        "M00_001_01_Shoes_01_CLOTH": "乐福鞋",
+        "M00_001_01_Tops_01_CLOTH": "制服内衬 (短袖)",
+        "M00_001_02_Tops_01_CLOTH": "制服内衬 (长袖)",
+        "M00_002_01_Shoes_01_CLOTH": "鞋子 (裙子)",
+        "M00_002_01_Tops_01_CLOTH": "连衣裙 (长袖)",
+        "M00_002_02_Body_00_SKIN": "Skin (裙子)",
+        "M00_002_02_Tops_01_CLOTH": "",
+        "M00_002_03_Tops_01_CLOTH": "连衣裙 (短袖)",
+        "M00_002_04_Tops_01_CLOTH": "连衣裙 (铅笔裙)",
+        "M00_003_01_AccessoryNeck_01_CLOTH": "蝴蝶结",
+        "M00_003_01_Body_00_SKIN": "Skin (制服裙)",
+        "M00_003_01_Bottoms_01_CLOTH": "制服裙",
+        "M00_003_01_Shoes_01_CLOTH": "乐福鞋",
+        "M00_003_01_Tops_01_CLOTH": "制服内衬 (短袖)",
+        "M00_003_02_Tops_01_CLOTH": "制服内衬 (长袖)",
+        "M00_004_00_Body_00_SKIN": "Skin (正装 1)",
+        "M00_004_01_Bottoms_01_CLOTH": "铅笔裙",
+        "M00_004_01_Shoes_01_CLOTH": "高跟鞋",
+        "M00_004_01_Tops_01_CLOTH": "迷你T恤",
+        "M00_005_01_Shoes_01_CLOTH": "运动鞋",
+        "M00_005_01_Tops_01_CLOTH": "T恤",
+        "M00_006_01_Shoes_01_CLOTH": "篮球运动鞋",
+        "M00_006_01_Tops_01_CLOTH": "连帽衫",
+        "M00_007_01_Shoes_01_CLOTH": "高帮运动鞋",
+        "M00_008_01_Body_00_SKIN": "Skin (大衣)",
+        "M00_008_01_Bottoms_01_CLOTH": "裤子 (大衣)",
+        "M00_008_01_Tops_01_CLOTH": "大衣 (高领)",
+        "M00_008_02_Tops_01_CLOTH": "大衣 (衬衣领)",
+        "M00_008_03_Tops_01_CLOTH": "大衣 (立领)"
+      },
+      "PartGroup": {
+        "M00_000_00_Body": "基础模型",
+        "M00_001_01_AccessoryNeck": "领带",
+        "M00_001_01_Body": "Body (制服)",
+        "M00_001_01_Bottoms": "制服裤子",
+        "M00_001_01_Shoes": "乐福鞋",
+        "M00_001_01_Tops": "制服内衬 (短袖)",
+        "M00_001_02_Tops": "制服内衬 (长袖)",
+        "M00_002_01_Body": "Body (裙子)",
+        "M00_002_01_Shoes": "鞋子 (裙子)",
+        "M00_002_01_Tops": "连衣裙 (长袖)",
+        "M00_002_02_Tops": "",
+        "M00_002_03_Tops": "连衣裙 (短袖)",
+        "M00_002_04_Tops": "连衣裙 (铅笔裙)",
+        "M00_003_01_AccessoryNeck": "蝴蝶结",
+        "M00_003_01_Body": "Body (制服裙)",
+        "M00_003_01_Bottoms": "制服裙",
+        "M00_003_01_Shoes": "乐福鞋",
+        "M00_003_01_Tops": "制服内衬 (Skirt, 短袖)",
+        "M00_003_02_Tops": "制服内衬 (Skirt, 长袖)",
+        "M00_004_01_Body": "Body (正装 1)",
+        "M00_004_01_Bottoms": "铅笔裙",
+        "M00_004_01_Shoes": "高跟鞋",
+        "M00_004_01_Tops": "迷你T恤",
+        "M00_005_01_Body": "Body (便装 1)",
+        "M00_005_01_Shoes": "运动鞋",
+        "M00_005_01_Tops": "T恤",
+        "M00_006_01_Body": "Body (便装 2)",
+        "M00_006_01_Shoes": "篮球运动鞋",
+        "M00_006_01_Tops": "连帽衫",
+        "M00_007_01_Body": "Body (便装 3)",
+        "M00_007_01_Shoes": "高帮运动鞋",
+        "M00_008_01_Body": "Body (大衣)",
+        "M00_008_01_Bottoms": "裤子 (大衣)",
+        "M00_008_01_Tops": "大衣 (高领)",
+        "M00_008_02_Bottoms": "裤子 (无褶)",
+        "M00_008_02_Tops": "大衣 (衬衣领)",
+        "M00_008_03_Tops": "大衣 (立领)",
+        "M00_Face": "Face"
+      },
+      "Shoes": {
+        "BlendShape": {
+          "Low": "鞋底高度 (降低)"
+        }
+      },
+      "Tops": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "ShoulderFlat": "肩斜",
+          "SkirtALine": "腰宽",
+          "SkirtLength": "裙子长度",
+          "SkirtLightness": "裙摆开口",
+          "SkirtPanier": "裙子体积",
+          "SkirtStraight": "裙摆开口 (更窄)",
+          "SkirtTipSpread": "下摆加宽",
+          "SleeveWidth": "袖子宽度"
+        }
+      },
+      "UniformLongSleeve": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "SleeveCrease": "袖子折痕"
+        }
+      },
+      "UniformPants": {
+        "BlendShape": {
+          "PantsCrease": "裤子褶皱",
+          "PantsWidth": "裤子宽度",
+          "ShoesIn": "裤脚下摆 (收窄)",
+          "ShoesOut": "裤脚下摆 (提高)"
+        }
+      }
+    },
+    "N00": {
+      "Accessory": {
+        "F00_000": "身体",
+        "F00_001_01": "制服 (短裙)",
+        "F00_002_01": "连衣裙",
+        "F00_003_01": "制服 (裤子)",
+        "F00_004_01": "正装 1",
+        "F00_005_01": "便装 1",
+        "F00_006_01": "便装 2",
+        "F00_007_01": "便装 3",
+        "F00_008_01": "大衣"
+      },
+      "BodySuit": {
+        "BlendShape": {
+          "AdamsApple": "显示喉结",
+          "AllInflate": "展开紧身衣",
+          "AllShrink": "收缩紧身衣",
+          "ArmFlat1": "平整手臂",
+          "ArmFlat2": "围绕手肘平整",
+          "ArmInflate1": "从手腕增大",
+          "ArmInflate2": "从手肘增大",
+          "ArmInflate3": "从肩部增大",
+          "ArmInflate4": "最大化手臂体积",
+          "ArmPuff1": "肩部蓬松 1",
+          "ArmPuff2": "肩部蓬松 2",
+          "ArmPuff3": "袖子蓬松 1",
+          "ArmPuff4": "袖子蓬松 2",
+          "BodyInflate1": "增大身体 1",
+          "BodyInflate2": "增大身体 2",
+          "BodyInflate3": "增大身体 3",
+          "BustFlat1": "平整胸上部",
+          "BustFlat2": "平整胸肌",
+          "BustFlat3": "平整胸肌 (增大胸部)",
+          "ButtFlat1": "平整臀部",
+          "ButtFlat2": "平整臀部 (上部)",
+          "ClavicleFlat": "平整锁骨",
+          "ClavicleLow": "柔和锁骨",
+          "FingerFlat": "平整手指",
+          "FingerInflate": "增大手指",
+          "FingerSharpen": "伸长手指",
+          "FootHeel": "抬高脚后跟",
+          "FootRound1": "圆形脚",
+          "FootRound2": "增大脚部",
+          "FootSharpen": "锥形脚",
+          "HipFlat": "平整大腿后侧与臀部的间隙",
+          "InseamShrink": "收紧胯部",
+          "LegFlat1": "平整腿部",
+          "LegFlat2": "平整膝盖周围",
+          "LegInflate1": "从脚踝增大",
+          "LegInflate2": "从膝盖增大",
+          "LegInflate3": "从大腿增大",
+          "LegInflate4": "最大化腿部体积",
+          "LegPuff1": "大腿上部蓬松",
+          "LegPuff2": "大腿下部蓬松",
+          "LegPuff3": "膝盖蓬松",
+          "LegPuff4": "脚踝蓬松",
+          "NavelFlat": "平整肚脐",
+          "NeckFlat": "平整脖子",
+          "NeckNarrowX": "颈部宽度 (缩窄)",
+          "NeckNarrowZ": "颈部前后宽度 (缩窄)",
+          "NeckSpreadX": "颈部宽度 (扩大)",
+          "NeckSpreadZ": "颈部前后宽度 (扩大)",
+          "ToeExtend": "缩短脚",
+          "ToeUp": "伸长脚",
+          "TorsoFlat": "平整躯干"
+        }
+      },
+      "Casual1": {
+        "BlendShape": {
+          "HeightLong": "下摆长度",
+          "ShoesHi": "鞋底 (加高)",
+          "ShoesLow": "鞋底 (降低)",
+          "SleeveLong": "袖子长度",
+          "SleeveNarrow": "袖口收窄",
+          "WaistSpread": "下摆松紧",
+          "WidthWide": "腰宽"
+        }
+      },
+      "Casual2": {
+        "BlendShape": {
+          "FoodNarrow": "兜帽大小 (更小)",
+          "HeightLong": "下摆长度",
+          "ShoesHi": "鞋底 (加高)",
+          "ShoesLow": "鞋底 (降低)",
+          "SleeveCrease": "袖子折痕",
+          "SleeveSqueeze": "袖口收窄",
+          "SleeveThick": "袖子厚度",
+          "WaistSpread": "下摆松紧",
+          "WidthWide": "腰宽"
+        }
+      },
+      "Casual3": {
+        "BlendShape": {
+          "ShoesHi": "鞋底 (加高)",
+          "ShoesLow": "鞋底 (降低)"
+        }
+      },
+      "CatEar": {
+        "BlendShape": {
+          "Form01": "耳朵形状 2",
+          "Form01_Fur": "毛量 (耳朵形状 2)",
+          "Form02": "耳朵形状 3",
+          "Form02_Fur": "毛量 (耳朵形状 3)",
+          "Form03": "耳朵形状 4",
+          "Form03_Fur": "毛量 (耳朵形状 4)",
+          "Fur": "毛量",
+          "Large": "耳朵大小 (更大)",
+          "Round": "耳尖圆度",
+          "Small": "耳朵大小 (更小)",
+          "Sorrow": "耳朵形状 1",
+          "Sorrow_Fur": "毛量 (耳朵形状 1)"
+        }
+      },
+      "ClothingSet": {
+        "F00_000": "身体",
+        "F00_001_01": "制服 (短裙)",
+        "F00_002_01": "连衣裙",
+        "F00_003_01": "制服(裤子)",
+        "F00_004_01": "正装 1",
+        "F00_005_01": "便装 1",
+        "F00_006_01": "便装 2",
+        "F00_007_01": "便装 3",
+        "F00_008_01": "大衣"
+      },
+      "Formal1": {
+        "BlendShape": {
+          "HeightLong": "下摆长度",
+          "ShoesHeelSmall": "鞋跟宽度",
+          "ShoesHi": "鞋底高度",
+          "SleeveNarrow": "袖口收窄",
+          "WaistNarrow": "腰宽 (更窄)",
+          "WaistWide": "腰宽 (更宽)"
+        }
+      },
+      "GlassesHi": {
+        "BlendShape": {
+          "BridgeNarrow": "鼻梁 (减细)",
+          "BridgeWide": "鼻梁 (加粗)",
+          "Frame01": "镜框形状 1",
+          "Frame02": "镜框形状 2",
+          "Frame03": "镜框形状 3",
+          "Frame04": "镜框形状 4",
+          "Frame05": "镜框形状 5",
+          "Frame06": "镜框形状 6",
+          "Frame07": "镜框形状 7",
+          "Frame08": "镜框形状 8",
+          "Frame09": "镜框形状 9",
+          "Frame10": "镜框形状 10",
+          "FrameExpand": "框架 (加粗)",
+          "FrameThick": "框架 (加厚)",
+          "FrameThin": "框架 (减薄)",
+          "FrameThinly": "框架 (减细)",
+          "FrontMove": "前移",
+          "NoseHang": "靠在鼻子",
+          "TempleInside": "镜腿 (夹紧)",
+          "TempleNarrow": "镜腿 (减细)",
+          "TempleOutside": "镜腿 (宽松)",
+          "TempleWide": "镜腿 (加粗)"
+        }
+      },
+      "GlassesLow": {
+        "BlendShape": {
+          "BridgeNarrow": "鼻梁 (减细)",
+          "BridgeWide": "鼻梁 (加粗)",
+          "Frame01": "镜框形状 1",
+          "Frame02": "镜框形状 2",
+          "Frame03": "镜框形状 3",
+          "Frame04": "镜框形状 4",
+          "Frame05": "镜框形状 5",
+          "Frame06": "镜框形状 6",
+          "Frame07": "镜框形状 7",
+          "Frame08": "镜框形状 8",
+          "Frame09": "镜框形状 9",
+          "Frame10": "镜框形状 10",
+          "FrameExpand": "框架 (加粗)",
+          "FrameThick": "框架 (加厚)",
+          "FrameThin": "框架 (减薄)",
+          "FrameThinly": "框架 (减细)",
+          "FrontMove": "前移",
+          "NoseHang": "靠在鼻子",
+          "TempleInside": "镜腿 (夹紧)",
+          "TempleNarrow": "镜腿 (减细)",
+          "TempleOutside": "镜腿 (宽松)",
+          "TempleWide": "镜腿 (加粗)"
+        }
+      },
+      "LongBoots": {
+        "BlendShape": {
+          "Crease": "踝部皱纹",
+          "FootThick": "脚部厚度",
+          "HeelExtrude": "鞋跟曲线",
+          "HeelLow": "缩短鞋跟",
+          "HeelLowFlat": "平整鞋跟",
+          "HeelThinZ": "鞋跟厚度",
+          "InflateAll": "总体积",
+          "InflateAnkle": "平整踝部曲线",
+          "InflateBottom": "鞋子体积",
+          "SoleFlat": "鞋跟楔形",
+          "SoleThick1": "鞋底厚度",
+          "SoleThick2": "平台厚度",
+          "ToeInflate": "脚趾体积",
+          "ToeSharpen": "脚趾长度",
+          "ToeThick": "脚趾厚度",
+          "ToeWide": "脚趾宽度",
+          "TopSpread": "靴口宽度",
+          "TopSpreadX": "靴口宽度 (X)",
+          "TopSpreadZ": "靴口宽度 (Z)"
+        }
+      },
+      "LongCoat": {
+        "BlendShape": {
+          "_01AccessoryTieNeckNarrow": "首元を狭める",
+          "_01AccessoryTieNeckWide": "首元を広げる",
+          "_01AccessoryTieRootNarrow": "根本を狭める",
+          "_01AccessoryTieRootWide": "根本を広げる",
+          "_01AccessoryTieWidthNarrow": "幅を狭める",
+          "_01AccessoryTieWidthWide": "幅を広げる",
+          "_01AccessoryTieYDown": "全体を下げる",
+          "_01AccessoryTieYUp": "全体を上げる",
+          "_01AccessoryTieZDown": "全体を斜めに下げる",
+          "_01AccessoryTieZUp": "全体を斜めに上げる",
+          "_02AccessoryTieNeckNarrow": "首元を狭める",
+          "_02AccessoryTieNeckWide": "首元を広げる",
+          "_02AccessoryTieRingLongL": "左の輪を長く",
+          "_02AccessoryTieRingLongR": "右の輪を長く",
+          "_02AccessoryTieRingLow_L": "左侧丝带结向内",
+          "_02AccessoryTieRingLow_R": "右侧丝带结向内",
+          "_02AccessoryTieRingShortL": "左の輪を短く",
+          "_02AccessoryTieRingShortR": "右の輪を短く",
+          "_02AccessoryTieRingUpL": "左侧丝带结向外",
+          "_02AccessoryTieRingUpR": "右侧丝带结向外",
+          "_02AccessoryTieStringBendL": "左侧绳弧度",
+          "_02AccessoryTieStringBendR": "右侧绳弧度",
+          "_02AccessoryTieStringShortL": "缩短左侧绳",
+          "_02AccessoryTieStringShortR": "缩短右侧绳",
+          "_02AccessoryTieYDown": "首元を下げる",
+          "_02AccessoryTieYUp": "首元を上げる",
+          "_02AccessoryTieZDown": "首元を斜めに下げる",
+          "_02AccessoryTieZUp": "首元を斜めに上げる",
+          "AllVolume": "厚度",
+          "ArmFat": "袖子厚度",
+          "ArmLong": "袖子长度 (更长)",
+          "ArmPuff00": "袖子泡泡袖 (大)",
+          "ArmPuff01": "袖子泡泡袖 (微妙)",
+          "ArmRoll": "袖口卷起",
+          "ArmShort": "袖子长度 (更短)",
+          "ArmSpread": "袖口开口",
+          "ArmWide00": "袖子宽度",
+          "ArmWide01": "袖口宽度",
+          "ArmWideFlat00": "袖子宽度 (向后)",
+          "ArmWideFlat01": "袖口宽度 (向后)",
+          "ArmWrinkle": "袖子折痕",
+          "Crease": "踝部皱纹",
+          "FootThick": "脚部厚度",
+          "HeelExtrude": "鞋跟曲线",
+          "HeelLow": "缩短鞋跟",
+          "HeelLowFlat": "平整鞋跟",
+          "HeelThinZ": "鞋跟厚度",
+          "InflateAll": "总体积",
+          "InflateAnkle": "平整踝部曲线",
+          "InflateBottom": "鞋子体积",
+          "NeckFlat": "肩斜",
+          "NeckHigh": "衣领拉高",
+          "NeckInside": "领口松紧",
+          "NeckLow": "衣领降低",
+          "NeckNarrow": "衣领收紧",
+          "NeckVolume": "衣领厚度",
+          "NeckWave": "衣领下垂",
+          "NeckWide": "衣领加宽",
+          "NeckWrinkle": "衣领缝",
+          "ShoulderCrees": "肩缝",
+          "ShoulderPuff00": "肩部泡泡袖 1",
+          "ShoulderPuff01": "肩部泡泡袖 2",
+          "ShoulderPuff02": "肩部泡泡袖 3",
+          "ShoulderUP": "肩峰抬高",
+          "ShoulderWide": "肩垫",
+          "SoleFlat": "Wedges",
+          "SoleThick1": "Sole Thickness",
+          "SoleThick2": "Platform Thickness",
+          "ToeInflate": "Toebox Volume",
+          "ToeSharpen": "Toebox Point",
+          "ToeThick": "Toebox Thickness",
+          "ToeWide": "Toebox Width",
+          "TopSpread": "Collar Width",
+          "TopSpreadX": "Collar Width (X)",
+          "TopSpreadZ": "Collar Width (Z)",
+          "UnderLong": "下摆加长",
+          "UnderShort": "下摆缩短",
+          "UnderStretch": "裙子厚度",
+          "UnderTight": "下摆收紧",
+          "UnderWave": "下摆折痕",
+          "UnderWide": "下摆加宽",
+          "WaistFlat": "腰宽",
+          "WestThin00": "腰围 (腰带)",
+          "WestThin01": "腰围 (皮带)",
+          "WestThin02": "腰围 (后部)",
+          "WestThin03": "腰围 (收紧)",
+          "WestThin04": "腰围 (加宽凹陷)",
+          "WestWrinkle": "腰部折痕"
+        }
+      },
+      "Material": {
+        "F00_000_00_Body_00_SKIN": "皮肤",
+        "F00_000_00_EyeExtra_01_EYE": "Extra",
+        "F00_000_00_EyeHighlight_00_EYE": "眼睛高光",
+        "F00_000_00_EyeIris_00_EYE": "瞳孔",
+        "F00_000_00_EyeWhite_00_EYE": "眼白",
+        "F00_000_00_Face_00_SKIN": "面部肌肤",
+        "F00_000_00_FaceBrow_00_FACE": "眉毛",
+        "F00_000_00_FaceEyelash_00_FACE": "睫毛",
+        "F00_000_00_FaceEyeline_00_FACE": "眼线",
+        "F00_000_00_FaceMouth_00_FACE": "嘴",
+        "F00_001_01_AccessoryNeck_01_CLOTH": "蝴蝶结",
+        "F00_001_01_Body_00_SKIN": "Skin (制服裙)",
+        "F00_001_01_Bottoms_01_CLOTH": "制服裙",
+        "F00_001_01_Shoes_01_CLOTH": "乐福鞋",
+        "F00_001_01_Tops_01_CLOTH": "制服内衬 (短袖)",
+        "F00_001_02_Tops_01_CLOTH": "制服内衬 (长袖)",
+        "F00_002_01_Shoes_01_CLOTH": "鞋子 (裙子)",
+        "F00_002_01_Tops_01_CLOTH": "连衣裙 (长袖)",
+        "F00_002_02_Body_00_SKIN": "Skin (裙子)",
+        "F00_002_02_Tops_01_CLOTH": "",
+        "F00_002_03_Tops_01_CLOTH": "连衣裙 (短袖)",
+        "F00_002_04_Tops_01_CLOTH": "连衣裙 (铅笔裙)",
+        "F00_003_01_AccessoryNeck_01_CLOTH": "领带",
+        "F00_003_01_Body_00_SKIN": "Skin (制服裤子)",
+        "F00_003_01_Bottoms_01_CLOTH": "内裤",
+        "F00_003_01_Shoes_01_CLOTH": "乐福鞋",
+        "F00_003_01_Tops_01_CLOTH": "制服内衬 (裤子, 短袖)",
+        "F00_003_02_Tops_01_CLOTH": "制服内衬 (裤子, 长袖)",
+        "F00_004_00_Body_00_SKIN": "Skin (正装 1)",
+        "F00_004_01_Bottoms_01_CLOTH": "铅笔裙",
+        "F00_004_01_Shoes_01_CLOTH": "高跟鞋",
+        "F00_004_01_Tops_01_CLOTH": "迷你T恤",
+        "F00_005_01_Shoes_01_CLOTH": "运动鞋",
+        "F00_005_01_Tops_01_CLOTH": "T恤",
+        "F00_006_01_Shoes_01_CLOTH": "篮球运动鞋",
+        "F00_006_01_Tops_01_CLOTH": "连帽衫",
+        "F00_007_01_Shoes_01_CLOTH": "高帮运动鞋",
+        "F00_008_01_Body_00_SKIN": "Skin (大衣)",
+        "F00_008_01_Bottoms_01_CLOTH": "裤子 (大衣)",
+        "F00_008_01_Tops_01_CLOTH": "大衣 (高领)",
+        "F00_008_02_Tops_01_CLOTH": "大衣 (衬衣领)",
+        "F00_008_03_Tops_01_CLOTH": "大衣 (立领)"
+      },
+      "PartGroup": {
+        "F00_000_00_Body": "身体",
+        "F00_001_01_AccessoryNeck": "蝴蝶结",
+        "F00_001_01_Body": "Body (制服裙)",
+        "F00_001_01_Bottoms": "制服裙",
+        "F00_001_01_Shoes": "乐福鞋",
+        "F00_001_01_Tops": "制服内衬 (短袖)",
+        "F00_001_02_Tops": "制服内衬 (长袖)",
+        "F00_002_01_Body": "Body (裙子)",
+        "F00_002_01_Shoes": "鞋子 (裙子)",
+        "F00_002_01_Tops": "连衣裙 (长袖)",
+        "F00_002_02_Tops": "",
+        "F00_002_03_Tops": "连衣裙 (短袖)",
+        "F00_002_04_Tops": "连衣裙 (铅笔裙)",
+        "F00_003_01_AccessoryNeck": "领带",
+        "F00_003_01_Body": "Body (制服裤子)",
+        "F00_003_01_Bottoms": "内裤",
+        "F00_003_01_Shoes": "乐福鞋 (裤子)",
+        "F00_003_01_Tops": "制服内衬 (裤子, 短袖)",
+        "F00_003_02_Tops": "制服内衬 (裤子, 长袖)",
+        "F00_004_01_Body": "Body (正装 1)",
+        "F00_004_01_Bottoms": "铅笔裙",
+        "F00_004_01_Shoes": "高跟鞋",
+        "F00_004_01_Tops": "迷你T恤",
+        "F00_005_01_Body": "Body (便装 1)",
+        "F00_005_01_Shoes": "运动鞋",
+        "F00_005_01_Tops": "T恤",
+        "F00_006_01_Body": "Body (便装 2)",
+        "F00_006_01_Shoes": "篮球运动鞋",
+        "F00_006_01_Tops": "连帽衫",
+        "F00_007_01_Body": "Body (便装 3)",
+        "F00_007_01_Shoes": "高帮运动鞋",
+        "F00_008_01_Body": "Body (大衣)",
+        "F00_008_01_Bottoms": "裤子 (大衣)",
+        "F00_008_01_Tops": "大衣 (高领)",
+        "F00_008_02_Bottoms": "裤子 (无褶)",
+        "F00_008_02_Tops": "大衣 (衬衣领)",
+        "F00_008_03_Tops": "大衣 (立领)",
+        "F00_Face": "脸",
+        "N00_001_01_Accessory_Tie": "领带",
+        "N00_001_01_Bottoms": "内裤",
+        "N00_001_01_Shoes": "乐福鞋",
+        "N00_001_01_Tops": "制服内衬 (短袖)",
+        "N00_001_02_Accessory_Tie": "蝴蝶结",
+        "N00_001_02_Bottoms": "裤子 (无褶)",
+        "N00_001_02_Tops": "制服内衬 (长袖)",
+        "N00_001_03_Bottoms": "制服裙",
+        "N00_002_01_Shoes": "鞋 (裙子)",
+        "N00_002_01_Tops": "连衣裙 (长袖)",
+        "N00_002_02_Tops": "",
+        "N00_002_03_Tops": "连衣裙 (短袖)",
+        "N00_002_04_Tops": "连衣裙 (铅笔裙)",
+        "N00_003_01_Bottoms": "铅笔裙",
+        "N00_003_01_Shoes": "高跟鞋",
+        "N00_003_01_Tops": "迷你T恤",
+        "N00_004_01_Shoes": "运动鞋",
+        "N00_004_01_Tops": "T恤",
+        "N00_005_01_Shoes": "篮球运动鞋",
+        "N00_005_01_Tops": "连帽衫",
+        "N00_006_01_Shoes": "高帮运动鞋",
+        "N00_007_01_Accessory_Tie": "长领带",
+        "N00_007_01_Bottoms": "裤子 (大衣)",
+        "N00_007_01_Tops": "大衣 (高领)",
+        "N00_007_02_Accessory_Tie": "系带",
+        "N00_007_02_Bottoms": "裤子 (无褶)",
+        "N00_007_02_Tops": "大衣 (衬衣领)",
+        "N00_007_03_Tops": "大衣 (立领)",
+        "N00_008_01_Shoes": "长靴",
+        "N00_010_01_OnePiece": "紧身衣"
+      },
+      "RabbitEar": {
+        "BlendShape": {
+          "Bend_L": "耳朵弯折 (左)",
+          "Bend_R": "耳朵弯折 (右)",
+          "Drop_L": "耳朵下垂 (左)",
+          "Drop_R": "耳朵下垂 (右)",
+          "Shrink": "耳朵大小 (更小)",
+          "Straight": "耳朵竖立",
+          "Stretch": "耳朵拉长",
+          "Wide": "耳朵加宽"
+        }
+      },
+      "Shoes": {
+        "BlendShape": {
+          "Low": "鞋底 (降低)"
+        }
+      },
+      "Tops": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "ShoulderFlat": "肩斜",
+          "SkirtALine": "腰宽",
+          "SkirtLength": "裙子长度",
+          "SkirtLightness": "裙摆开口",
+          "SkirtPanier": "裙子厚度",
+          "SkirtStraight": "裙摆开口 (更窄)",
+          "SkirtTipSpread": "下摆加宽",
+          "SleeveWidth": "袖子宽度"
+        }
+      },
+      "Transferable": {
+        "CatEar": "猫耳",
+        "GlassesHi": "眼镜 (厚)",
+        "GlassesLow": "眼镜 (薄)",
+        "pixiv_VRoid_Attachment_CatEar_N00_Base_N00_000_00_Accessory_CatEar_TransferableType_N00_CatEar_transferable": "猫耳",
+        "pixiv_VRoid_Attachment_GlassesHi_N00_Base_N00_000_00_Accessory_GlassesHi_TransferableType_N00_GlassesHi_transferable": "眼镜 (厚)",
+        "pixiv_VRoid_Attachment_GlassesLow_N00_Base_N00_000_00_Accessory_GlassesLow_TransferableType_N00_GlassesLow_transferable": "眼镜 (薄)",
+        "pixiv_VRoid_Attachment_RabbitEar_N00_Base_N00_000_00_Accessory_RabbitEar_TransferableType_N00_RabbitEar_transferable": "兔耳",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_001_01_Tops_TransferableType_N00_ArmAccessory_transferable": "制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_001_02_Tops_TransferableType_N00_ArmAccessory_transferable": "制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_01_Tops_TransferableType_N00_ArmAccessory_transferable": "连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_02_Tops_TransferableType_N00_ArmAccessory_transferable": "",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_03_Tops_TransferableType_N00_ArmAccessory_transferable": "连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_04_Tops_TransferableType_N00_ArmAccessory_transferable": "连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_003_01_Tops_TransferableType_N00_ArmAccessory_transferable": "迷你T恤",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_004_01_Tops_TransferableType_N00_ArmAccessory_transferable": "T恤",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_005_01_Tops_TransferableType_N00_ArmAccessory_transferable": "连帽衫",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_01_Tops_TransferableType_N00_ArmAccessory_transferable": "大衣 (高领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_02_Tops_TransferableType_N00_ArmAccessory_transferable": "大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_03_Tops_TransferableType_N00_ArmAccessory_transferable": "大衣 (立领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_SkinOverlay_TransferableType_N00_ArmAccessory_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_N00_001_01_Accessory_Tie_TransferableType_N00_NeckAccessory_transferable": "领带",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_N00_001_02_Accessory_Tie_TransferableType_N00_NeckAccessory_transferable": "蝴蝶结",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_SkinOverlay_TransferableType_N00_NeckAccessory_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_01_Bottoms_TransferableType_N00_Bottoms_transferable": "裤子 (有褶)",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_02_Bottoms_TransferableType_N00_Bottoms_transferable": "裤子 (无褶)",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_03_Bottoms_TransferableType_N00_Bottoms_transferable": "制服裙",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_003_01_Bottoms_TransferableType_N00_Bottoms_transferable": "铅笔裙",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_SkinOverlay_TransferableType_N00_Bottoms_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_InnerBottom_N00_Base_SkinOverlay_TransferableType_N00_InnerBottom_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_InnerTop_N00_Base_SkinOverlay_TransferableType_N00_InnerTop_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_001_01_Tops_TransferableType_N00_Onepiece_transferable": "制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_001_02_Tops_TransferableType_N00_Onepiece_transferable": "制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_01_Tops_TransferableType_N00_Onepiece_transferable": "连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_02_Tops_TransferableType_N00_Onepiece_transferable": "",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_03_Tops_TransferableType_N00_Onepiece_transferable": "连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_04_Tops_TransferableType_N00_Onepiece_transferable": "连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_003_01_Tops_TransferableType_N00_Onepiece_transferable": "迷你T恤",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_004_01_Tops_TransferableType_N00_Onepiece_transferable": "T恤",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_005_01_Tops_TransferableType_N00_Onepiece_transferable": "连帽衫",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_01_Tops_TransferableType_N00_Onepiece_transferable": "大衣 (高领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_02_Tops_TransferableType_N00_Onepiece_transferable": "大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_03_Tops_TransferableType_N00_Onepiece_transferable": "大衣 (立领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_SkinOverlay_TransferableType_N00_Onepiece_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_001_01_Shoes_TransferableType_N00_Shoes_transferable": "乐福鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_002_01_Shoes_TransferableType_N00_Shoes_transferable": "礼服鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_003_01_Shoes_TransferableType_N00_Shoes_transferable": "高跟鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_004_01_Shoes_TransferableType_N00_Shoes_transferable": "运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_005_01_Shoes_TransferableType_N00_Shoes_transferable": "篮球运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_006_01_Shoes_TransferableType_N00_Shoes_transferable": "高帮运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_SkinOverlay_TransferableType_N00_Shoes_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_Socks_N00_Base_TransferableType_N00_Socks_transferable": "Skin Overlay",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_001_01_Tops_TransferableType_N00_Tops_transferable": "制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_001_02_Tops_TransferableType_N00_Tops_transferable": "制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_01_Tops_TransferableType_N00_Tops_transferable": "连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_02_Tops_TransferableType_N00_Tops_transferable": "",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_03_Tops_TransferableType_N00_Tops_transferable": "连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_04_Tops_TransferableType_N00_Tops_transferable": "连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_003_01_Tops_TransferableType_N00_Tops_transferable": "迷你T恤",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_004_01_Tops_TransferableType_N00_Tops_transferable": "T恤",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_005_01_Tops_TransferableType_N00_Tops_transferable": "连帽衫",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_01_Tops_TransferableType_N00_Tops_transferable": "大衣 (高领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_02_Tops_TransferableType_N00_Tops_transferable": "大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_03_Tops_TransferableType_N00_Tops_transferable": "大衣 (立领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_SkinOverlay_TransferableType_N00_Tops_transferable": "Skin Overlay紧身衣",
+        "RabbitEar": "兔耳"
+      },
+      "TransferableGroup": {
+        "pixiv_VRoid_Attachment_CatEar_N00_Base_N00_000_00_Accessory_CatEar_TransferableGroupType_N00_Level1_AnimalEar_transferablegroup": "猫耳",
+        "pixiv_VRoid_Attachment_GlassesHi_N00_Base_N00_000_00_Accessory_GlassesHi_TransferableGroupType_N00_Level1_Glasses_transferablegroup": "眼镜 (厚)",
+        "pixiv_VRoid_Attachment_GlassesLow_N00_Base_N00_000_00_Accessory_GlassesLow_TransferableGroupType_N00_Level1_Glasses_transferablegroup": "眼镜 (薄)",
+        "pixiv_VRoid_Attachment_RabbitEar_N00_Base_N00_000_00_Accessory_RabbitEar_TransferableGroupType_N00_Level1_AnimalEar_transferablegroup": "兔耳",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_001_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_001_02_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_02_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - ",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_03_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_002_04_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_003_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 迷你T恤",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_004_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - T恤",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_005_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 连帽衫",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_01_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 大衣 (高领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_02_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_N00_007_03_Tops_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - 大衣 (立领)",
+        "pixiv_VRoid_Clothing_AccessoryArm_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_ArmAccessory_transferablegroup": "手臂配饰 - Skin Overlay",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_N00_001_01_Accessory_Tie_TransferableGroupType_N00_Level1_NeckAccessory_transferablegroup": "脖子配饰 - 领带",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_N00_001_02_Accessory_Tie_TransferableGroupType_N00_Level1_NeckAccessory_transferablegroup": "脖子配饰 - 蝴蝶结",
+        "pixiv_VRoid_Clothing_AccessoryNeck_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_NeckAccessory_transferablegroup": "脖子配饰 - Skin Overlay",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_01_Bottoms_TransferableGroupType_N00_Level1_Bottoms_transferablegroup": "Bottoms - 裤子 (有褶)",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_02_Bottoms_TransferableGroupType_N00_Level1_Bottoms_transferablegroup": "Bottoms - 裤子 (无褶)",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_001_03_Bottoms_TransferableGroupType_N00_Level1_Bottoms_transferablegroup": "Bottoms - 制服裙",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_N00_003_01_Bottoms_TransferableGroupType_N00_Level1_Bottoms_transferablegroup": "Bottoms - 铅笔裙",
+        "pixiv_VRoid_Clothing_Bottoms_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_Bottoms_transferablegroup": "Bottoms - Skin Overlay",
+        "pixiv_VRoid_Clothing_InnerBottom_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_InnerBottom_transferablegroup": "Inner Bottoms - Skin Overlay",
+        "pixiv_VRoid_Clothing_InnerTop_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_InnerTop_transferablegroup": "Inner Tops - Skin Overlay",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_001_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_001_02_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_02_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - ",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_03_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_002_04_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_003_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 迷你T恤",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_004_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - T恤",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_005_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 连帽衫",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_01_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 大衣 (高领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_02_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_N00_007_03_Tops_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - 大衣 (立领)",
+        "pixiv_VRoid_Clothing_Onepiece_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_Onepiece_transferablegroup": "裙子 - Skin Overlay",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_001_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 乐福鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_002_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 礼服鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_003_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 高跟鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_004_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_005_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 篮球运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_N00_006_01_Shoes_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - 高帮运动鞋",
+        "pixiv_VRoid_Clothing_Shoes_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_Shoes_transferablegroup": "鞋子 - Skin Overlay",
+        "pixiv_VRoid_Clothing_Socks_N00_Base_TransferableGroupType_N00_Level1_Socks_transferablegroup": "袜子 - Skin Overlay",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_001_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 制服内衬 (短袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_001_02_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 制服内衬 (长袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 连衣裙 (长袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_02_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - ",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_03_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 连衣裙 (短袖)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_002_04_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 连衣裙 (铅笔裙)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_003_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 迷你T恤",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_004_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - T恤",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_005_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 连帽衫",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_01_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 大衣 (高领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_02_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 大衣 (衬衣领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_N00_007_03_Tops_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - 大衣 (立领)",
+        "pixiv_VRoid_Clothing_Tops_N00_Base_SkinOverlay_TransferableGroupType_N00_Level1_Tops_transferablegroup": "Tops - Skin Overlay"
+      },
+      "UniformLongSleeve": {
+        "BlendShape": {
+          "CuffTightness": "袖口松紧",
+          "SleeveCrease": "袖子皱褶",
+          "Spread": "下摆松紧"
+        }
+      },
+      "UniformPants": {
+        "BlendShape": {
+          "PantsCrease": "裤子褶皱",
+          "PantsWidth": "裤子宽度",
+          "ShoesIn": "裤脚下摆 (收窄)",
+          "ShoesOut": "裤脚下摆 (提高)"
+        }
+      },
+      "UniformShortSleeve": {
+        "BlendShape": {
+          "WaistSpread": "下摆松紧"
+        }
+      },
+      "UniformSkirt": {
+        "BlendShape": {
+          "Long": "裙子 (更长)",
+          "Narrow": "裙子 (更窄)",
+          "Short": "裙子 (更短)",
+          "Spread": "裙子 (更宽)"
+        }
+      }
+    }
+  },
+  "PushNotification": {
+    "Channel": {
+      "Official": {
+        "Name": "VRoid team 新闻"
+      }
+    }
+  },
+  "Quality": {
+    "High": "高",
+    "Low": "低",
+    "Medium": "中",
+    "SuperHigh": "最高"
+  },
+  "RenameDialogController": {
+    "Name": "名字",
+    "Save": "保存"
+  },
+  "SaveAsDialogController": {
+    "AvatarName": "角色名字",
+    "ReplaceAlert": "现有角色名称已占用. \r\n是否覆盖数据并替换它? ",
+    "Save": "保存",
+    "SaveFailedAlert": "保存角色时出错."
+  },
+  "Scripts": {
+    "HairEditor": {
+      "CommonAction": {
+        "RenameBone": "重命名骨骼",
+        "RenameHair": "重命名头发",
+        "RenameHairGroup": "重命名头发组"
+      }
+    }
+  },
+  "Studio": {
+    "CurrentFileModel": {
+      "Untitled": "Untitled"
+    },
+    "Dialog": {
+      "View": {
+        "LanguageSetting": {
+          "Title": "语言设置"
+        },
+        "PreviewQualitySettingTitle": "3D预览质量",
+        "ThemeSettingTitle": "主题"
+      }
+    },
+    "EditRootScreen": {
+      "ApplyColorDialog": {
+        "View": {
+          "ApplyColorDialog": {
+            "InfoMessage": "通过选择在编辑时应用颜色,&#x0A;\r\n你可以实时看到纹理变化&#x0A;\r\n在3D预览中."
+          }
+        }
+      },
+      "ConfirmCustomItemSaving": {
+        "Cancel": "取消",
+        "Save": "保存",
+        "StartEditWithDontSave": "开始编辑而不保存"
+      },
+      "ImportCustomItemDialog": {
+        "DontWear": "Wear later",
+        "importedLabel": " was imported successfully",
+        "Title": "Imported successfully",
+        "Wear": "Wear now"
+      }
+    },
+    "GUI": {
+      "AvatarEditor": {
+        "AccessoryBoneEditorScreenTransform": {
+          "ScreenName": "附件骨架编辑器"
+        },
+        "AccessoryDesignEditorScreenTransform": {
+          "ScreenName": "附件设计编辑器"
+        },
+        "ClothingEditor": {
+          "ClothingPresetPropertyPanel": {
+            "Preset": "预设名字"
+          }
+        },
+        "FaceEditor": {
+          "FacePropertyPanel": {
+            "PresetNameDummy": "预设名字显示在这里"
+          }
+        },
+        "HairEditor": {
+          "HairEditorPanel": {
+            "PresetNameDummy": "预设名字显示在这里"
+          }
+        },
+        "PhotoBooth": {
+          "PhotoBoothViewPanel": {
+            "PoseSelect": "确认这个姿势",
+            "SelectPose": "确认这个姿势"
+          }
+        },
+        "TextureEditor": {
+          "ColorSelector": {
+            "HashCharacter": "#"
+          },
+          "ParameterConfigPanel": {
+            "Parameter": "参数"
+          }
+        }
+      },
+      "UserControls": {
+        "DummyBodyPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyClothingPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyFacePresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyHairPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        }
+      }
+    },
+    "HairEditor": {
+      "DesignEditor": {
+        "ActionHandler": {
+          "RenameMaterial": {
+            "Title": "重命名材质"
+          }
+        }
+      }
+    },
+    "MessageOverlay": {
+      "MessageOverlayViewModel": {
+        "ImportCustomItem": "导入自定义项..."
+      }
+    },
+    "ModelPresetsSelector": {
+      "BasePresetsSelectorViewModel": {
+        "ContextMenu": {
+          "ReName": "重命名",
+          "SaveAndExport": "保存并导出自定义项"
+        }
+      },
+      "CustomItemRegistry": {
+        "ErrorDialog": {
+          "ExportErrorTitle": "导出过程中出现问题",
+          "ImportErrorDescription": "此项目不兼容。请使用最新版本的VRoid Studio导出项目后，再尝试重新导入。",
+          "ImportErrorTitle": "导入数据时出错。",
+          "IncompatibleDescription": "此项目不兼容。请在最新版本的VRoid Studio上重试。",
+          "IncompatibleTitle": "加载数据时出错",
+          "SecurityErrorDescription": "请检查您的安全软件设置。如果这不能解决问题"
+        },
+        "ExportCustomItem": {
+          "Dialogtitle": "导出自定义项"
+        },
+        "ImportCustomItem": {
+          "DialogFileType": "自定义项",
+          "Dialogtitle": "导入自定义项"
+        }
+      }
+    },
+    "Player": {
+      "PlayerCore": {
+        "OtherModelLoadError": "下载好友角色时出错. ",
+        "PlayerModelLoadError": "下载角色时出错. "
+      }
+    },
+    "Scripts": {
+      "AccessoryEditor": {
+        "ViewModel": {
+          "Rename": "重命名配饰"
+        }
+      },
+      "AccountIcon": {
+        "ViewModel": {
+          "Guest": "游客"
+        }
+      },
+      "BodyEditor": {
+        "ViewModel": {
+          "cs_0": "全部"
+        }
+      },
+      "Dialog": {
+        "View": {
+          "LanguageSetting": {
+            "English": "简体中文",
+            "Japanese": "日语"
+          },
+          "LanguageSettingTransform": {
+            "English": "简体中文",
+            "Japanese": "日语"
+          },
+          "PreviewQualitySetting": {
+            "HighQuality": "高",
+            "Normal": "默认"
+          },
+          "PreviewQualitySettingTransform": {
+            "HighQuality": "高",
+            "Normal": "默认"
+          },
+          "ThemeSetting": {
+            "Dark": "暗色",
+            "Light": "亮色"
+          },
+          "ThemeSettingTransform": {
+            "Dark": "暗色",
+            "Light": "亮色"
+          }
+        },
+        "ViewModel": {
+          "SettingDialogViewModel": {
+            "Title": "设置"
+          }
+        }
+      },
+      "EditRootScreen": {
+        "ApplyColorDialog": {
+          "View": {
+            "ApplyColorDialog": {
+              "DontDisplay": "不再显示"
+            },
+            "ApplyColorDialogTransform": {
+              "DontDisplay": "不再显示"
+            }
+          },
+          "ViewModel": {
+            "ApplyColorDialogViewModel": {
+              "ApplyTextureColor": "应用颜色到纹理",
+              "Cancel": " 取消",
+              "StartTextureEdit": "开始编辑",
+              "Title": "有关颜色可自定义项目的信息"
+            }
+          }
+        },
+        "SaveAsCustomItemDialog": {
+          "View": {
+            "SaveAsCustomItemDialogTransform": {
+              "DontSave": "不保存",
+              "Save": "覆盖已编辑的项目",
+              "SaveAsNew": "保存为新项目"
+            }
+          },
+          "ViewModel": {
+            "SaveAsCustomItemDialogViewModel": {
+              "InfoTitle": "是否将编辑保存为自定义项目? "
+            }
+          }
+        }
+      },
+      "HairEditor": {
+        "DesignEditor": {
+          "Material": {
+            "ViewModel": {
+              "MaterialTextureNodeViewModel": {
+                "TextureEdit": "编辑纹理"
+              }
+            }
+          }
+        }
+      },
+      "StartScreen": {
+        "BaseSelectDialog": {
+          "View": {
+            "BaseSelectDialog": {
+              "InfoMessage": "之后你可以使用滑块来编辑模型."
+            },
+            "BaseSelectDialogTransform": {
+              "InfoMessage": "之后你可以使用滑块来编辑模型."
+            }
+          },
+          "ViewModel": {
+            "BaseSelectDialogViewModel": {
+              "Man": "男性",
+              "SelectBase": "选择一个基础模型",
+              "Woman": "女性"
+            }
+          }
+        }
+      },
+      "TextureEditor": {
+        "AddTemplateDialog": {
+          "ViewModel": {
+            "AddTemplateDialogViewModel": {
+              "AddTemplate": "添加模板",
+              "HalfOnePiece": "连衣裙 (半袖)",
+              "HighNeckLongCoat": "大衣 (高领)",
+              "Hoodie": "连帽衫",
+              "LongCoat": "大衣",
+              "LongOnePiece": "连衣裙 (长袖)",
+              "MiniTShirt": "迷你T恤",
+              "OnePiece": "连衣裙",
+              "Pants": "裤子",
+              "PantsNoCrease": "裤子 (无褶)",
+              "PantsWithCrease": "裤子 (折痕)",
+              "PencilOnePiece": "连衣裙 (铅笔裙)",
+              "PencilSkirt": "铅笔裙铅笔裙",
+              "SchoolLongVest": "制服内衬 (长袖)",
+              "SchoolShortVest": "制服内衬 (短袖)",
+              "SchoolSkirt": "制服裙",
+              "SchoolVest": "制服内衬",
+              "ShirtNeckLongCoat": "大衣 (衬衣领)",
+              "ShortOnePiece": "连衣裙 (短袖)",
+              "SkinOverlay": "Skin Overlay",
+              "StandLongCoat": "大衣 (立领)",
+              "TShirt": "T恤"
+            }
+          }
+        }
+      },
+      "View": {
+        "BodyEditorTransitionButton": {
+          "ApplyColorWhenEditing": "编辑时应用颜色"
+        },
+        "BodyEditorTransitionButtonTransform": {
+          "ApplyColorWhenEditing": "编辑时应用颜色"
+        },
+        "FaceEditorTransitionButtonTransform": {
+          "ApplyColorWhenEditing": "编辑时应用颜色"
+        },
+        "PopupAccessorySelectorScreen": {
+          "Customize": "自定义",
+          "MaxAccessoryLabel": "同一类别的配饰数量已达到上限 (5个)",
+          "Preset": "预设"
+        }
+      }
+    },
+    "StartScreen": {
+      "BaseSelectDialog": {
+        "ViewModel": {
+          "Female": "女",
+          "Male": "男",
+          "Title": "选择一个基底"
+        }
+      }
+    },
+    "View": {
+      "ModelPresets": {
+        "AddCustomItemButtonTransform": {
+          "CreateNewItem": "新建"
+        },
+        "ImportCustomItemTransform": {
+          "Import": "导入"
+        }
+      }
+    },
+    "World": {
+      "SceneController": {
+        "Error": "Oops",
+        "ErrorDefault": "出错了.\r\n重定向至 photo studio 选择页面",
+        "ErrorGameFull": "房间拥挤, 请稍后重试",
+        "JoinRoomFailed": "未能加入房间"
+      }
+    }
+  },
+  "Tools": {
+    "Transferable": {
+      "Scripts": {
+        "View": {
+          "FittingPanel": {
+            "Animation": "动画",
+            "Category": "分类",
+            "LoadMan": "下载男性",
+            "LoadWoman": "下载女性",
+            "Run": "执行"
+          },
+          "FittingPanelTransform": {
+            "Animation": "动画",
+            "Category": "分类",
+            "LoadMan": "下载男性",
+            "LoadWoman": "下载女性",
+            "Run": "执行"
+          },
+          "GenerationPanel": {
+            "Category": "分类",
+            "StartGenerate": "开始生成",
+            "StopGenerate": "停止生成"
+          },
+          "GenerationPanelTransform": {
+            "Category": "分类",
+            "StartGenerate": "开始生成",
+            "StopGenerate": "停止生成"
+          },
+          "MigrationPanel": {
+            "AutoGenerateLackFolder": "在设置所指定的目录中创建必要的文件和文件夹.",
+            "AutoGenerateSettingFolder": "自动创建可移植项目文件夹",
+            "Open": "打开",
+            "Run": "执行"
+          },
+          "MigrationPanelTransform": {
+            "AutoGenerateLackFolder": "在设置所指定的目录中创建必要的文件和文件夹.",
+            "AutoGenerateSettingFolder": "自动创建可移植项目文件夹",
+            "Open": "打开",
+            "Run": "执行"
+          },
+          "SettingsPanel": {
+            "MacCopyInfo": "Mac OS: 选择文件夹并按下 Option - Command - C",
+            "Open": "打开",
+            "WindowsCopyInfo": "Windows系统: 打开文件夹或文件管理器并点击地址栏"
+          },
+          "SettingsPanelTransform": {
+            "MacCopyInfo": "Mac OS: 选择文件夹并按下 Option - Command - C",
+            "Open": "打开",
+            "WindowsCopyInfo": "Windows系统: 打开文件夹或文件管理器并点击地址栏"
+          }
+        }
+      },
+      "View": {
+        "FittingPanel": {
+          "CanEquip": "可安装的可移植项目",
+          "Equipping": "安装的可移植项目"
+        },
+        "GenerationPanel": {
+          "Log": "日志",
+          "Run": "执行"
+        },
+        "MigrationPanel": {
+          "AutoGenerateLackFolder": "在设置所指定的目录中创建必要的文件和文件夹.",
+          "AutoGenerateSettingFolder": "自动生成的可移植项目",
+          "Copy": "将 Beta 版本的女性模型转换成正式版, 并复制到设置中指定的目录",
+          "Info": "请注意, 若您已在设置中指定可移植项目位置, 内容将会丢失.",
+          "Translate": "Beta 版本中自动生成的可移植项目"
+        },
+        "SettingsPanel": {
+          "CopyInfo": "你可以通过以下方式复制文件夹地址",
+          "MacCopyInfo": "Mac OS: 选择文件夹并按下 Option - Command - C",
+          "Tips": "Tips小提示",
+          "Title": "设置",
+          "WindowsCopyInfo": "Windows系统: 打开文件夹或文件管理器并点击地址栏"
+        }
+      }
+    }
+  },
+  "Translation": {
+    "CrowdinLanguageCode": "en",
+    "DotNetCultureInfoName": "en-US"
+  },
+  "UI": {
+    "Scripts": {
+      "View": {
+        "AccountField": {
+          "BuyCoin": "购买硬币"
+        },
+        "AccountFieldTransform": {
+          "BuyCoin": "购买硬币"
+        }
+      }
+    },
+    "View": {
+      "AccountField": {
+        "CoinDummy": "10,000"
+      },
+      "ColorPicker": {
+        "HashCharacter": "#"
+      }
+    }
+  },
+  "UnsavedDialogController": {
+    "QuitLabel": "关闭",
+    "QuitText": "自上次编辑后您尚未保存.\r\n确定要关闭VRoid Studio吗? "
+  },
+  "URL": {
+    "About3DPrintCaution": "https://vroid.pixiv.help/hc/en-us/articles/900006051606",
+    "About3DPrintFactory": "https://factory.pixiv.net/vroid?utm_source=vroid_studio&utm_medium=link&utm_campaign=vroid_studio_link",
+    "AboutBetaModelImport": "https://vroid.pixiv.help/hc/en-us/articles/4405853251481",
+    "AboutColorAdjust": "https://vroid.pixiv.help/hc/en-us/articles/4405438979225",
+    "AboutItemAndCustomize": "https://vroid.pixiv.help/hc/en-us/articles/900005583186",
+    "AboutKeyboardShortcut": "https://vroid.pixiv.help/hc/en-us/articles/900006050066",
+    "AboutSkinMask": "https://vroid.pixiv.help/hc/en-us/articles/4405516267033",
+    "BoothVRoidCategory": "https://booth.pm/en/browse/VRoid",
+    "DownloadBeta": "https://vroid.com/en/studio/releases",
+    "Guideline": "https://vroid.com/en/studio/guidelines",
+    "Help": "https://vroid.pixiv.help/hc/en-us/categories/360000054482",
+    "HowToChangeExpression": "https://vroid.pixiv.help/hc/en-us/articles/4408150140825",
+    "HowToCustomizeHair": "https://vroid.pixiv.help/hc/en-us/articles/900005678786",
+    "HowToSwingHair": "https://vroid.pixiv.help/hc/en-us/articles/900006910023",
+    "OfficialVersionHelpPage": "https://vroid.pixiv.help/hc/en-us/categories/900000339606",
+    "PrivacyPolicy": "https://policies.pixiv.net/en.html#privacy",
+    "StudioOfficialDistribution": "https://vroid.com/en/studio",
+    "StudioTermsOfUse": "https://policies.pixiv.net/en.html#vroidstudio",
+    "VRChatAvatarAdvancedSetting": "https://vroid.pixiv.help/hc/en-us/articles/9847485646873",
+    "VRChatAvatarInformation": "https://vroid.pixiv.help/hc/en-us/articles/9847238618521",
+    "VRChatHowToUpload": "https://vroid.pixiv.help/hc/en-us/articles/9846691321113",
+    "VRM1PublicLicense": "https://vrm.dev/en/licenses/1.0/",
+    "VRoidHub": "https://hub.vroid.com/en"
+  },
+  "V1": {
+    "Studio": {
+      "AccountIcon": {
+        "ViewModel": {
+          "AccountMenuItemDataSources": {
+            "DownLoadBeta": "下载 Beta 版本",
+            "ForBetaUsers": "版本差异",
+            "Help": "FAQ",
+            "KeyboardShortcut": "快捷键",
+            "LogOut": "登出",
+            "Settings": "设置",
+            "Tutorial": "教程",
+            "VRoidHub": "VRoid Hub"
+          }
+        }
+      },
+      "BodyEditor": {
+        "BodyHeightViewModel": {
+          "ModelHeight": "模型高度",
+          "ShowHeightPlane": "显示高度面板"
+        }
+      },
+      "ColorSelection": {
+        "BaseColor": "主色",
+        "BothEyes": "双眼",
+        "Color": "颜色",
+        "HighlightColor": "高光颜色",
+        "LeftEye": "左眼",
+        "MainColor": "颜色",
+        "RightEye": "右眼",
+        "ShadowColor": "阴影颜色",
+        "SkinColor": "皮肤颜色"
+      },
+      "Dialog": {
+        "ViewModel": {
+          "LanguageSettingViewModel": {
+            "English": "简体中文",
+            "Japanese": "日本語",
+            "Title": "语言"
+          },
+          "PreviewQualitySettingViewModel": {
+            "High": "高",
+            "Normal": "普通",
+            "Title": "3D预览质量"
+          },
+          "SettingDialog": {
+            "Title": "设置"
+          },
+          "ThemeSettingViewModel": {
+            "Dark": "暗色主题",
+            "Light": "亮色主题",
+            "Title": "主题"
+          }
+        }
+      },
+      "EditRootScreen": {
+        "AddClothingCustomItemDialog": {
+          "CategoryListHeaderSelectTemplate": "从其他类别中选取",
+          "TitleAddTemplate": "添加模板",
+          "TitleSelectTemplate": "选择模板"
+        },
+        "ApplyColorDialog": {
+          "Description": "颜色可自定义项是您可以随时编辑颜色的部分\r\n使用颜色校准和编辑纹理的<b>灰度</b>来优化着色和自定义项目的最终结果.",
+          "StartTextureEdit": "开始编辑纹理",
+          "Title": "颜色可自定义项目"
+        },
+        "ConfirmCustomItemSavingDialog": {
+          "ContinueWithoutSave": "开始编辑而不保存",
+          "Description": "在开始编辑之前, 是否要将未保存的项目另存为自定义项目吗? \r\n未保存的项目将会丢失.",
+          "Export": {
+            "ContinueWithoutSave": "导出而不保存",
+            "Description": "导出此项目之前，是否要将未保存的项目保存为自定义项目？未保存的项目将被删除。"
+          },
+          "Rename": {
+            "ContinueWithoutSave": "重命名而不保存",
+            "Description": "重命名此项目之前，是否要将未保存的项目保存为自定义项目？未保存的项目将被删除。"
+          },
+          "Title": "保存临时项目"
+        },
+        "FailedToLoadCustomItemsMessage": "下载在新版本的 VRoid Studio 上创建的数据时出错. \r\n请更新 VRoid Studio.",
+        "ModelPresets": {
+          "TemporaryCustomItem": {
+            "Customizing": "未保存的项目",
+            "OverwriteItem": "覆盖原有数据",
+            "SaveAsNewItem": "保存为新项目"
+          }
+        },
+        "NewlySavedCustomItemDialog": {
+          "CategoryFormat": "\"{0}\"",
+          "CategorySeparator": "",
+          "NewlySavedMessageFormat": "{0} 将被保存为新项目"
+        },
+        "PresetsSelector": {
+          "Custom": "自定义",
+          "CustomItems": "自定义项目",
+          "OverwriteItem": "覆盖项目",
+          "Preset": "预设",
+          "SaveAsNewItem": "保存为新项目"
+        },
+        "SaveAsCustomItemDialog": {
+          "ItemsToSave": "要保存的项目",
+          "Overwrite": "覆盖",
+          "QuitWithoutSaving": "关闭但不保存",
+          "SaveAsNewItem": "保存为新项目",
+          "SaveConfirmationMessage": "是否要在关闭编辑器之前保存此项目\r\n新编辑的项目保存在“自定义”选项卡中.",
+          "TitleQuitHairBoneEditor": "关闭骨骼编辑器",
+          "TitleQuitHairDesignEditor": "关闭发型编辑器",
+          "TitleQuitTextureEditor": "关闭材质编辑器"
+        },
+        "ViewModel": {
+          "AllHairColor": "主色",
+          "BaseColor": "主色",
+          "Customize": "自定义",
+          "EditMaterial": "编辑材质",
+          "EditTexture": "编辑纹理",
+          "HairBumpiness": "强度",
+          "HairTexture": "纹理",
+          "OverwriteItem": "覆盖项目",
+          "SaveAsCustomItem": "保存为自定义项目",
+          "SaveAsNewItem": "保存为新项目",
+          "ToApplyColorOnStartEditing": "编辑时应用颜色"
+        }
+      },
+      "HairBoneEditorScreen": {
+        "ViewModel": {
+          "AddHairToBoneGroupCommand": "移动到所选组",
+          "CreateHairBoneGroupCommand": "创建骨骼组",
+          "GenHairBoneGroup": "自动生成骨骼",
+          "GenHairBoneGroupCommand": "自动生成骨骼组",
+          "GenHairBoneGroupCount": "骨骼组",
+          "GenHairBoneGroupEdge": "前发细节",
+          "GroupedHairs": "头发组",
+          "UngroupedHairs": "未分组头发"
+        }
+      },
+      "HairDesignEditorScreen": {
+        "ViewModel": {
+          "AddBangsHair": "添加逻辑头发组",
+          "AddBrushGuide": "添加手绘头发组",
+          "CreateHair": "创建头发",
+          "HairList": "头发组"
+        }
+      },
+      "HairEditor": {
+        "BoneEditor": {
+          "Property": {
+            "ViewModel": {
+              "BoneGroupPropertyViewModel": {
+                "BoneCount": "骨骼",
+                "BoneGroup": "完成骨骼组",
+                "BoneGroupedHair": "组头发",
+                "BoneParameter": "骨骼参数",
+                "ColliderRadius": "命中半径",
+                "Gravity": "重力",
+                "RemoveHairFromBoneGroupCommand": "将头发移出骨骼组",
+                "SetAxisHintHairCommand": "将头发设置为轴",
+                "SetAxisHintHairGroupCommand": "移动轴到组中心",
+                "SpringRootRate": "固定点",
+                "Stiffness": "刚性"
+              }
+            }
+          }
+        },
+        "DesignEditor": {
+          "HairGroup": {
+            "ViewModel": {
+              "BrushHairGuide": "手绘组",
+              "ProceduralHairGuide": "逻辑组"
+            }
+          }
+        }
+      },
+      "HubConnection": {
+        "AuthorizationCodeInputDialog": {
+          "AuthorizationCodeEmpty": "需要认证码",
+          "Label": "认证码",
+          "Paste": "粘贴",
+          "Title": "请输入认证码"
+        },
+        "LoginDialog": {
+          "ViewModel": {
+            "LoginDialogViewModel": {
+              "HowToUploadToVRChat": "上传到 VRChat 之前的必要准备",
+              "Login": "登录",
+              "LoginMessage": "请登录",
+              "LoginMessageVRChat": "请登录",
+              "LoginTitle": "上传到 VRoid Hub",
+              "ModelEditingReLoginMessage": "您似乎还没有登录, 请登录.\r\n到目前为止所做的任何编辑都不会丢失.",
+              "ReLoginMessage": "您似乎还没有登录, 请登录."
+            }
+          }
+        },
+        "MinimumSupportedVersionUpdatedDialog": {
+          "ViewModel": {
+            "MinimumSupportedVersionUpdatedDialogViewModel": {
+              "Message": "有新的版本可用, 请前往下载页更新应用.",
+              "OpenDownloadPage": "转到下载页",
+              "Title": "更新新闻"
+            }
+          }
+        }
+      },
+      "HubUploadScreen": {
+        "HubUploadDiscardingStateWarningDialog": {
+          "ViewModel": {
+            "HubUploadDiscardingStateWarningDialogViewModel": {
+              "Exit": "关闭",
+              "Message": "如果现在关闭, 未保存的编辑将丢失.\r\n确定要取消吗? ",
+              "Title": "取消上传"
+            }
+          }
+        }
+      },
+      "StartScreen": {
+        "AgreementsConfirmationDialog": {
+          "ViewModel": {
+            "AgreementsConfirmationDialogViewModel": {
+              "AgeConfirmation": "创建 VRoid Mobile账户, 年龄需要满13岁或以上.",
+              "Agree": "同意",
+              "Message": "在使用 VRoid Studio 前, 您需要同意使用条款、隐私政策与准则.",
+              "Title": "开始"
+            }
+          }
+        },
+        "BetaModelImportDialog": {
+          "ViewModel": {
+            "BetaModelImportDialogViewModel": {
+              "AboutBetaModelImport": "Beta 版本的模型发生了错误",
+              "Content": "编辑导入的 Beta 版本模型前, 你需要转换模型数据. \r\n创建新的转换数据...",
+              "Import": "选择保存位置并转换",
+              "Title": "转换一个 Beta 版本的模型"
+            }
+          }
+        },
+        "BetaModelImportErrorDialog": {
+          "ViewModel": {
+            "BetaModelImportErrorDialogViewModel": {
+              "AboutBetaModelImport": "Beta 版本的模型发生了错误",
+              "Content": "导入失败.",
+              "Title": "转换模型失败"
+            }
+          }
+        },
+        "ModelLoadingLabel": "正在加载, 请稍待片刻.",
+        "TutorialSelectDialog": {
+          "Description": "如果您是初学者, 请参阅基础教程.\r\nBeta 版用户可以查看新功能和更改内容.",
+          "ForBeginners": "初学者教程",
+          "ForBetaUsers": "与 Beta 版的差异",
+          "Skip": "跳过",
+          "Title": "欢迎来到 VRoid Studio!",
+          "UrlForBeginners": "https://vroid.pixiv.help/hc/en-us/articles/4405597663385",
+          "UrlForBetaUsers": "https://vroid.pixiv.help/hc/en-us/articles/4405597671193",
+          "Watch": "阅读帮助"
+        },
+        "ViewModel": {
+          "CreateNewModel": "新建",
+          "ErrorDialog": {
+            "DuplicationErrorDescription": "复制模型失败",
+            "DuplicationErrorTitle": "复制失败",
+            "InvalidNameErrorDescription": "模型名称包含无法使用的字符. 请使用不带字符的模型名称\r\n「¥」「/」「:」「*」「?」「”」「<」「>」「|」",
+            "NewErrorDescription": "创建新模型失败. 请再次尝试创建新模型. ",
+            "NewErrorTitle": "创建新模型失败. ",
+            "OpenErrorDescription": "未能加载模型. 请检查文件夹中是否存在该模型, 并重试. ",
+            "OpenErrorTitle": "加载失败",
+            "RenameErrorDescription": "重命名失败. 如果继续失败, 请在系统中重命名文件. ",
+            "RenameErrorTitle": "重命名失败",
+            "SameNameErrorDescription": "名称已存在, 请换一个."
+          },
+          "Header": {
+            "Models": "你的模型",
+            "OldModels": "你的模型 (0.14或更早版本)",
+            "Samples": "示例模型"
+          },
+          "StartScreenMode": {
+            "ModelSelection": "模型",
+            "TermsOfUse1": "使用示例模型时请遵守",
+            "TermsOfUse2": "使用条款",
+            "TermsOfUse3": "."
+          }
+        }
+      },
+      "TextureEditorScreen": {
+        "ViewModel": {
+          "TemplateLimitDescription": "至多可以添加5个模板",
+          "TemplateLimitExceeded": "已达到模板数量限制, 无法添加新的模板"
+        }
+      },
+      "UnSavedDialog": {
+        "DontSave": "不保存",
+        "InfoText": "在你离开前,  \r\n想要保存改动吗? \r\n如果你不保存, 你最后的改动会被丢弃.",
+        "Save": "保存",
+        "Title": "未保存的改动"
+      },
+      "View": {
+        "ModelPresets": {
+          "NoPresets": "为此类别添加预设"
+        }
+      },
+      "VRChatUploadScreen": {
+        "VRChatUploadDiscardingStateWarningDialog": {
+          "ViewModel": {
+            "VRChatUploadDiscardingStateWarningDialogViewModel": {
+              "Exit": "关闭",
+              "Message": "\"如果您现在关闭, 您的编辑将会丢失. 您确定要关闭吗?\"",
+              "Title": "上传未完成"
+            }
+          }
+        }
+      }
+    }
+  },
+  "VRChat": {
+    "VRChatUploadModelSettingDialog": {
+      "AccessoryUnknown": "Something went wrong. Please try again.",
+      "AccountName": "VRChat Account:",
+      "AdvanceSetting": "Advanced Settings",
+      "AvatarInfo": "Avatar Information",
+      "AvatarName": "Avatar Name",
+      "BreastSwing": "Breast Bounce",
+      "BreastSwingOff": "Bounce OFF",
+      "BreastSwingOn": "Bounce ON",
+      "CancelConnectVRChatAccount": "Back",
+      "CanceledUpload": "Cancelling the upload. Please wait until the cancellation process is completed. You will receive a notification on VRoid Hub when the cancellation process is complete.",
+      "CancelUpload": "Cancel upload",
+      "CheckConvertStatus": "Confirm changes",
+      "ConnectVRChatAccount": "Link",
+      "ContentWarnings": "Content Warnings",
+      "DeleteThumbnail": "Delete thumbnail",
+      "GoreUsage": "This avatar can be portrayed in depictions with blood and gore",
+      "HowToUploadMultiModelToVRChat": "How do I upload multiple models to VRChat?",
+      "Information": "Avatar Information",
+      "NeedVRChatConnect": "To upload a model to VRChat you must link your VRoid Hub and VRChat accounts.",
+      "NSFWUsage": "This avatar can be portrayed in other NSFW situations",
+      "OverwriteConfirmInfo": "This will overwrite the model that is currently uploaded. Do you want to proceed?",
+      "RequiredInput": "*Required",
+      "RightsConfirm": "The above information is accurate and I have the rights to upload this content to VRChat.",
+      "SexualUsage": "This avatar can be portrayed nude and depicted in sexual acts",
+      "ShadowColorAdjust": "Model's Shadow Automatic Adjustment",
+      "ShadowColorAdjustInfo": "Please select \"Don't adjust\" if it is not displaying correctly on VRChat, otherwise please select \"Adjust\".",
+      "ShadowColorAdjustOff": "Don't adjust",
+      "ShadowColorAdjustOn": "Adjust",
+      "StartedUpload": "Upload started. You can close VRoid Studio while the model is being converted for VRChat. After the conversion is completed, you will receive a notification on VRoid Hub informing you that you can use the model on VRChat.",
+      "StartingUpload": "Model is uploading to VRChat. Please wait until the upload is finished. When the upload is completed, you will receive a notification on VRoid Hub.",
+      "StartUpload": "Preparing upload...",
+      "SwingSetting": "Bounce Settings",
+      "SwingSettingInfo": "Setting the slider to 0 will turn bounce off. Collision detection will remain.",
+      "Thumbnail": "Thumbnail (Recommended 1200*900px, 5MB or lower)",
+      "ThumbnailSizeOver": "The image is over 5MB",
+      "Title": "Upload to VRChat",
+      "UploadIsCanceling": "Processing upload cancellation. Please wait.",
+      "ViolentUsage": "This avatar can be used for depictions of violence"
+    }
+  },
+  "VRoidHub": {
+    "AgeLimit": {
+      "AgeLimit_": "年龄分级",
+      "Normal": "全年龄",
+      "R15": "R-15",
+      "R18": "R-18"
+    },
+    "AgeLimitMessage": "设置媒体文件年龄分级",
+    "AuthorizationMessage": "输入认证码",
+    "CharacterListTitleToAddModel": "选择需要添加模型的角色",
+    "CharacterListTitleToChooseModel": "选择需要添加模型的角色",
+    "CharacterNameMessage": "为此角色添加一个名字",
+    "CharacterNamePlaceholder": "角色名",
+    "CharacterSetting": "新建角色设定",
+    "CheckAccountInfo": "检查帐户信息",
+    "DefaultModelName": "默认模型",
+    "HubCharacterModelSelectionDialog": {
+      "Message": "选择需要更新的模型",
+      "Title": "更新 VRoid Hub 上的模型"
+    },
+    "HubCharacterModelSettingsDialog": {
+      "Character": {
+        "NameLabel": "角色名",
+        "Title": "角色设定"
+      },
+      "CharacterModel": {
+        "NameLabel": "模型名",
+        "Title": "模型设定"
+      }
+    },
+    "HubCharacterSelectionDialog": {
+      "Add": {
+        "Message": "选择需要增加模型的角色",
+        "Title": "添加模型到 VRoid Hub"
+      },
+      "Update": {
+        "Message": "选择需要更新模型的角色",
+        "Title": "更新 VRoid Hub 上的模型"
+      }
+    },
+    "HubUploadTypeSelectionDialog": {
+      "AddCharacterLabel": "新建角色",
+      "AddCharacterModelLabel": "新建模型",
+      "AddCharacterModelSubLabel": "为现有角色添加一个新模型",
+      "AddCharacterSubLabel": "创建新角色",
+      "Title": "上传到 VRoid Hub",
+      "UpdateCharacterModelLabel": "更新模型",
+      "UpdateCharacterModelSubLabel": "更新现有角色的模型"
+    },
+    "JumpToVRoidHubMessage": "在 VRoid Hub 上检视",
+    "LoginFailed": "登录时出错",
+    "LoginProcessing": "正在登录",
+    "ModelListTitle": "选择需要修改的模型变动",
+    "ModelNameMessage": "为此变动添加一个名字",
+    "ModelNamePlaceholder": "变动名称",
+    "ModelSetting": " 新建模型设定",
+    "PasteButtonLabel": "粘贴",
+    "UpdateModelButtonLabel": "更新模型",
+    "UpdateNewCharacterButtonSubLabel": "上传并替换现有模型",
+    "UploadCompletedMessage": "上传成功",
+    "UploadFailed": "上传时出错",
+    "UploadNewCharacterButtonLabel": "新建角色",
+    "UploadNewCharacterButtonSubLabel": "将此模型上传至新角色",
+    "UploadNewModelButtonLabel": "新建模型",
+    "UploadNewModelButtonSubLabel": "向现有模型提交变动",
+    "UploadTypeSelectionGuideMessage": "你要上传什么到 VRoid Hub?"
+  },
+  "VRoidStudio": {
+    "GUI": {
+      "AvatarEditor": {
+        "AccessoryBoneEditorScreenTransform": {
+          "ScreenName": "附件骨骼编辑器"
+        },
+        "AccessoryDesignEditorScreenTransform": {
+          "ScreenName": "设计编辑器"
+        },
+        "ClothingEditor": {
+          "ClothingPresetPropertyPanel": {
+            "Preset": "预设名字"
+          }
+        },
+        "FaceEditor": {
+          "FacePropertyPanel": {
+            "PresetNameDummy": "预设名字显示在这里"
+          }
+        },
+        "HairEditor": {
+          "HairEditorPanel": {
+            "PresetNameDummy": "预设名字显示在这里"
+          }
+        },
+        "PhotoBooth": {
+          "PhotoBoothViewPanel": {
+            "PoseSelect": "确认这个姿势",
+            "SelectPose": "确认这个姿势"
+          }
+        },
+        "TextureEditor": {
+          "ColorSelector": {
+            "HashCharacter": "#"
+          },
+          "ParameterConfigPanel": {
+            "Parameter": "参数"
+          }
+        }
+      },
+      "UserControls": {
+        "BoothJumpButtonTransform": {
+          "BoothInfo": "您可以从BOOTH上的VRoid类别购买创作者制作的用于VRoid的各种纹理。",
+          "JumpToBooth": "查看BOOTH",
+          "SearchMoreItem": "搜索更多项目"
+        },
+        "DummyBodyPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyClothingPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyFacePresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        },
+        "DummyHairPresetViewTransform": {
+          "Customize": "自定义",
+          "Preset": "预设"
+        }
+      }
+    }
+  }
+}
