@@ -1,12 +1,12 @@
 ﻿using BepInEx;
 using BepInEx.Unity.IL2CPP;
-using System.Collections.Generic;
+using Il2CppSystem.Collections.Generic;
 using System.IO;
+using System;
 using BepInEx.Configuration;
 using VRoid.UI.Messages;
 using System.Text;
 using HarmonyLib;
-using System;
 using Newtonsoft.Json;
 
 namespace vroid_i18n
@@ -17,7 +17,7 @@ namespace vroid_i18n
         public const string PLUGIN_NAME = "VRoid Studio i18n plugin";
         public const string PLUGIN_VERSION = "0.0.1";
         public const string GAME_NAME = "VRoidStudio.exe";
-        public static readonly DirectoryInfo I18nFilePath = new DirectoryInfo($"{Paths.GameRootPath}\\locates\\zh_CN\\");
+        public static readonly DirectoryInfo I18nFilePath = new($"{Paths.GameRootPath}\\locates\\zh_CN\\");
     }
 
     [BepInPlugin(PluginMeta.PLUGIN_GUID, PluginMeta.PLUGIN_NAME, PluginMeta.PLUGIN_VERSION)]
@@ -32,10 +32,9 @@ namespace vroid_i18n
         public bool HasNullValue;
         public string RawMessage;
         public string RawString;
-        public Dictionary<string, string> RawStringDict = new Dictionary<string, string>();
+        public Dictionary<string, string> RawStringDict = new();
         public string MergeMessage;
         public string MergeString;
-        public bool ShowUpdateTip;
         public bool IsFallback;
         public bool IsLanguageChanged;
 
@@ -50,7 +49,6 @@ namespace vroid_i18n
             catch (Exception e)
             {
                 Log.LogError(e);
-                ShowUpdateTip = true;
             }
         }
 
@@ -99,7 +97,7 @@ namespace vroid_i18n
                 Messages.OnMessagesLanguageChange?.Invoke();
                 IsLanguageChanged = true;
             }
-            catch (System.Exception e)
+            catch (Exception e)
             {
                 Log.LogError($"Error on refresh UI: {e.Message}\n{e.StackTrace}");
                 IsFallback = true;
@@ -109,11 +107,25 @@ namespace vroid_i18n
 
         public void SwitchToEnglish()
         {
-            Messages.s_localeDictionary["en"] = JsonConvert.DeserializeObject<Messages>(RawMessage);
-            Messages.OnMessagesLanguageChange?.Invoke();
-            foreach (var kv in RawStringDict)
+            try
             {
-                Messages.s_localeStringDictionary["en"][kv.Key] = kv.Value;
+            Messages.s_localeDictionary["en"] = JsonConvert.DeserializeObject<Messages>(RawMessage);
+            }
+            catch (Exception e)
+            {
+                Log.LogError(e);
+            }
+            try
+            {
+                Messages.OnMessagesLanguageChange?.Invoke();
+                foreach (var kv in RawStringDict)
+                {
+                    Messages.s_localeStringDictionary["en"][kv.Key] = kv.Value;
+                }
+            }
+            catch (Exception e)
+            {
+                Log.LogError(e);
             }
             IsLanguageChanged = false;
         }
@@ -121,7 +133,6 @@ namespace vroid_i18n
         public void I18nMessages()
         {
             Log.LogDebug("bug on InitPluginConfig");
-
             string messageFilePath = $"{PluginMeta.I18nFilePath}\\messages.json";
             if (!File.Exists(messageFilePath))
             {
@@ -131,14 +142,17 @@ namespace vroid_i18n
             try
             {
                 string json = File.ReadAllText(messageFilePath);
-                JSONObject ori = new JSONObject(RawMessage);
-                JSONObject cnJson = new JSONObject(json);
+                JSONObject ori = new(RawMessage);
+                JSONObject cnJson = new(json);
 
                 MergeJson(ori, cnJson);
 
                 JSONObject sortJson = JsonSorter(ori);
                 MergeMessage = sortJson.ToString();
                 Messages cn = JsonConvert.DeserializeObject<Messages>(MergeMessage);
+
+                Log.LogMessage("============================i18ning======================");
+                Messages.s_localeDictionary["en"] = cn;
 
                 if (HasNullValue)
                 {
@@ -147,9 +161,8 @@ namespace vroid_i18n
                         DumpMerge();
                     }
                 }
-                Messages.s_localeDictionary["en"] = cn;
             }
-            catch (System.Exception e)
+            catch (Exception e)
             {
                 Log.LogError($"Error on load i18n: {e.Message}\n{e.StackTrace}");
             }
@@ -171,7 +184,7 @@ namespace vroid_i18n
                 {
                     if (!string.IsNullOrWhiteSpace(line))
                     {
-                        var kv = line.Split(new char[] { '=' }, 2);
+                        var kv = line.Split(['='], 2);
                         if (kv.Length == 2)
                         {
                             strDict[kv[0]] = kv[1].Replace("\\r\\n", "\r\n");
@@ -179,7 +192,7 @@ namespace vroid_i18n
                     }
                 }
             }
-            catch (System.Exception e)
+            catch (Exception e)
             {
                 Log.LogError($"Unable to decode: {e.Message}\n{e.StackTrace}");
             }
@@ -191,7 +204,7 @@ namespace vroid_i18n
             string messagesStr = JsonConvert.SerializeObject(messages);
             File.WriteAllText($"{PluginMeta.I18nFilePath.FullName}\\DumpMergeMessages.json", messagesStr);
             var strDict = Messages.s_localeStringDictionary["en"];
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new();
             foreach (var kv in strDict)
             {
                 string value = kv.Value.Replace("\r\n", "\\r\\n");
@@ -202,11 +215,11 @@ namespace vroid_i18n
 
         public void CreateBackup()
         {
-            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            System.Diagnostics.Stopwatch sw = new();
             sw.Start();
             RawMessage = JsonConvert.SerializeObject(Messages.All["en"]);
             var enDict = Messages.s_localeStringDictionary["en"];
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new();
             foreach (var kv in enDict)
             {
                 RawStringDict.Add(kv.Key, kv.Value);
@@ -227,9 +240,9 @@ namespace vroid_i18n
         {
             if (baseJson.type == JSONObject.Type.OBJECT)
             {
-                List<string> keys = new List<string>(baseJson.keys);
+                List<string> keys = new(baseJson.keys);
                 keys.Sort();
-                JSONObject obj = new JSONObject(JSONObject.Type.OBJECT);
+                JSONObject obj = new(JSONObject.Type.OBJECT);
                 foreach (var key in keys)
                 {
                     obj.SetField(key, baseJson[key]);
@@ -244,7 +257,7 @@ namespace vroid_i18n
 
         public void MergeJson(JSONObject baseJson, JSONObject modJson)
         {
-            List<string> baseKeys = new List<string>(baseJson.keys);
+            List<string> baseKeys = new(baseJson.keys);
             foreach (var key in baseKeys)
             {
                 if (modJson.HasField(key))

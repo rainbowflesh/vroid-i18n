@@ -70,4 +70,8 @@
       <HintPath>..\..\..\AppData\Local\Programs\Steam\steamapps\common\VRoid Studio\BepInEx\interop\VRoidCore.dll</HintPath>
     </Reference>
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="utils\" />
+  </ItemGroup>
 </Project>
